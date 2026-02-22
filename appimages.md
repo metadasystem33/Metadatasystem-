@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2444** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2445** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1380,6 +1380,7 @@
 | <img loading="lazy" src="icons/newlogic.png" width="48" height="48"> | [***newlogic***](apps/newlogic.md) | *A circuit builder.*..[ *read more* ](apps/newlogic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/newlogic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/newlogic) |
 | <img loading="lazy" src="icons/newsflash.png" width="48" height="48"> | [***newsflash***](apps/newsflash.md) | *Unofficial. RSS reader with support for local and web RSS feed.*..[ *read more* ](apps/newsflash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/newsflash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/newsflash) |
 | <img loading="lazy" src="icons/newton-adventure.png" width="48" height="48"> | [***newton-adventure***](apps/newton-adventure.md) | *A 2D game with a twist, player can rotate gravity at 360°.*..[ *read more* ](apps/newton-adventure.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/newton-adventure) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/newton-adventure) |
+| <img loading="lazy" src="icons/nexis.png" width="48" height="48"> | [***nexis***](apps/nexis.md) | *Linux & macOS system optimizer and monitor. Qt6 fork of Stacer with GPU monitoring, dark/light themes, and active maintenance.*..[ *read more* ](apps/nexis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexis) |
 | <img loading="lazy" src="icons/nextcloud.png" width="48" height="48"> | [***nextcloud***](apps/nextcloud.md) | *Client-server software for creating & using file hosting services.*..[ *read more* ](apps/nextcloud.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nextcloud) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nextcloud) |
 | <img loading="lazy" src="icons/nextplayer.png" width="48" height="48"> | [***nextplayer***](apps/nextplayer.md) | *A blue-ray player, originally named TheNewPlayerFree.*..[ *read more* ](apps/nextplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nextplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nextplayer) |
 | <img loading="lazy" src="icons/nexus-mods.png" width="48" height="48"> | [***nexus-mods***](apps/nexus-mods.md) | *A mod installer, creator and manager for all your popular games.*..[ *read more* ](apps/nexus-mods.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nexus-mods) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nexus-mods) |
