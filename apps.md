@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2857** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2856** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2356,7 +2356,6 @@
 | <img loading="lazy" src="icons/slippi.png" width="48" height="48"> | [***slippi***](apps/slippi.md) | *Slippi Launcher program for browsing and playing replays.*..[ *read more* ](apps/slippi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/slippi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/slippi) |
 | <img loading="lazy" src="icons/slogidex.png" width="48" height="48"> | [***slogidex***](apps/slogidex.md) | *Task management and automation tool.*..[ *read more* ](apps/slogidex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/slogidex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/slogidex) |
 | <img loading="lazy" src="icons/smallbasic.png" width="48" height="48"> | [***smallbasic***](apps/smallbasic.md) | *A fast and easy to learn BASIC language interpreter.*..[ *read more* ](apps/smallbasic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smallbasic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smallbasic) |
-| <img loading="lazy" src="icons/smartgit.png" width="48" height="48"> | [***smartgit***](apps/smartgit.md) | *A Git-Client.*..[ *read more* ](apps/smartgit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smartgit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smartgit) |
 | <img loading="lazy" src="icons/smartservogui.png" width="48" height="48"> | [***smartservogui***](apps/smartservogui.md) | *Scan for servo devices easily view.*..[ *read more* ](apps/smartservogui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smartservogui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smartservogui) |
 | <img loading="lazy" src="icons/smassh.png" width="48" height="48"> | [***smassh***](apps/smassh.md) | *Smassh your Keyboard, TUI Edition.*..[ *read more* ](apps/smassh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smassh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smassh) |
 | <img loading="lazy" src="icons/smath-studio.png" width="48" height="48"> | [***smath-studio***](apps/smath-studio.md) | *Tiny, but powerful mathematical program with WYSIWYG editor.*..[ *read more* ](apps/smath-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smath-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smath-studio) |

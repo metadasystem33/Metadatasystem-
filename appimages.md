@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2445** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2444** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1964,7 +1964,6 @@
 | <img loading="lazy" src="icons/slippi.png" width="48" height="48"> | [***slippi***](apps/slippi.md) | *Slippi Launcher program for browsing and playing replays.*..[ *read more* ](apps/slippi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/slippi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/slippi) |
 | <img loading="lazy" src="icons/slogidex.png" width="48" height="48"> | [***slogidex***](apps/slogidex.md) | *Task management and automation tool.*..[ *read more* ](apps/slogidex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/slogidex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/slogidex) |
 | <img loading="lazy" src="icons/smallbasic.png" width="48" height="48"> | [***smallbasic***](apps/smallbasic.md) | *A fast and easy to learn BASIC language interpreter.*..[ *read more* ](apps/smallbasic.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smallbasic) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smallbasic) |
-| <img loading="lazy" src="icons/smartgit.png" width="48" height="48"> | [***smartgit***](apps/smartgit.md) | *A Git-Client.*..[ *read more* ](apps/smartgit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smartgit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smartgit) |
 | <img loading="lazy" src="icons/smartservogui.png" width="48" height="48"> | [***smartservogui***](apps/smartservogui.md) | *Scan for servo devices easily view.*..[ *read more* ](apps/smartservogui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smartservogui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smartservogui) |
 | <img loading="lazy" src="icons/smath-studio.png" width="48" height="48"> | [***smath-studio***](apps/smath-studio.md) | *Tiny, but powerful mathematical program with WYSIWYG editor.*..[ *read more* ](apps/smath-studio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smath-studio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smath-studio) |
 | <img loading="lazy" src="icons/smf-dsp.png" width="48" height="48"> | [***smf-dsp***](apps/smf-dsp.md) | *Standard MIDI file player.*..[ *read more* ](apps/smf-dsp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/smf-dsp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/smf-dsp) |

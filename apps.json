@@ -11640,11 +11640,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/smallbasic.png"
   },
   {
-    "packageName": "smartgit",
-    "description": "A Git-Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/smartgit.png"
-  },
-  {
     "packageName": "smartservogui",
     "description": "Scan for servo devices easily view...",
     "icon": "https://portable-linux-apps.github.io/icons/smartservogui.png"
