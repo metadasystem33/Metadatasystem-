@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2553** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2554** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2006,6 +2006,7 @@
 | <img loading="lazy" src="icons/sheepshaver.png" width="48" height="48"> | [***sheepshaver***](apps/sheepshaver.md) | *Classic Macintosh emulator SheepShaver.*..[ *read more* ](apps/sheepshaver.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sheepshaver) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sheepshaver) |
 | <img loading="lazy" src="icons/sheikah.png" width="48" height="48"> | [***sheikah***](apps/sheikah.md) | *A Witnet compatible desktop wallet.*..[ *read more* ](apps/sheikah.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sheikah) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sheikah) |
 | <img loading="lazy" src="icons/shipwright.png" width="48" height="48"> | [***shipwright***](apps/shipwright.md) | *Ship of Harkinian.*..[ *read more* ](apps/shipwright.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shipwright) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shipwright) |
+| <img loading="lazy" src="icons/shiru.png" width="48" height="48"> | [***shiru***](apps/shiru.md) | *A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required.*..[ *read more* ](apps/shiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru) |
 | <img loading="lazy" src="icons/shoopdaloop.png" width="48" height="48"> | [***shoopdaloop***](apps/shoopdaloop.md) | *A (live) looping application with DAW elements.*..[ *read more* ](apps/shoopdaloop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shoopdaloop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shoopdaloop) |
 | <img loading="lazy" src="icons/shotcut.png" width="48" height="48"> | [***shotcut***](apps/shotcut.md) | *A powerful Video Editor.*..[ *read more* ](apps/shotcut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shotcut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shotcut) |
 | <img loading="lazy" src="icons/shutter-encoder.png" width="48" height="48"> | [***shutter-encoder***](apps/shutter-encoder.md) | *Professional converter & compression tool designed by video editors.*..[ *read more* ](apps/shutter-encoder.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shutter-encoder) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shutter-encoder) |
