@@ -14160,6 +14160,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "protonplus",
+    "description": "A modern compatibility tools manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/protonplus.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "protontricks",
     "description": "Unofficial AppImage of Protontricks...",
     "icon": "https://portable-linux-apps.github.io/icons/protontricks.png",
