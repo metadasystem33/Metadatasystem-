@@ -4650,6 +4650,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "easier-pixel-dungeon",
+    "description": "Mod of Shattered Pixel Dungeon, an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use...",
+    "icon": "https://portable-linux-apps.github.io/icons/easier-pixel-dungeon.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "easytag",
     "description": "Unofficial AppImage of EasyTAG tag editor...",
     "icon": "https://portable-linux-apps.github.io/icons/easytag.png",
