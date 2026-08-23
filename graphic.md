@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **102** programs for this category.
+#### Here are listed **103** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -200,6 +200,7 @@
 | <img loading="lazy" src="icons/vkdt.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vkdt***](apps/vkdt.md) | *Raw photography workflow that sucks less, enabling real-time support for animations, timelapses, raw video, and heavy lifting algorithms like image alignment and better highlight inpainting.*..[ *read more* ](apps/vkdt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vkdt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vkdt) |
 | <img loading="lazy" src="icons/voidsprite.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***voidsprite***](apps/voidsprite.md) | *Free pixelart editor.*..[ *read more* ](apps/voidsprite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/voidsprite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/voidsprite) |
 | <img loading="lazy" src="icons/vpaint.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vpaint***](apps/vpaint.md) | *Experimental vector graphics and 2D animation editor.*..[ *read more* ](apps/vpaint.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vpaint) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vpaint) |
+| <img loading="lazy" src="icons/waywallen.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***waywallen***](apps/waywallen.md) | *A dynamic wallpaper manager for linux desktops.*..[ *read more* ](apps/waywallen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waywallen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waywallen) |
 | <img loading="lazy" src="icons/wonderwall.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wonderwall***](apps/wonderwall.md) | *Wallpaper manager for Linux.*..[ *read more* ](apps/wonderwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wonderwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wonderwall) |
 | <img loading="lazy" src="icons/xpano.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xpano***](apps/xpano.md) | *Automated photo stiching tool. Lets you import a directory of images and then export the autodetected panoramas.*..[ *read more* ](apps/xpano.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xpano) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xpano) |
 

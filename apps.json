@@ -2532,6 +2532,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "chaski-app",
+    "description": "A calmer way to read the web...",
+    "icon": "https://portable-linux-apps.github.io/icons/chaski-app.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "chat-gpt",
     "description": "Unofficial. ChatGPT Desktop Application...",
     "icon": "https://portable-linux-apps.github.io/icons/chat-gpt.png",
@@ -11154,6 +11160,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "mpz",
+    "description": "Folder player for big local music collections...",
+    "icon": "https://portable-linux-apps.github.io/icons/mpz.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "mqtt-explorer",
     "description": "Explore your message queues...",
     "icon": "https://portable-linux-apps.github.io/icons/mqtt-explorer.png",
@@ -19582,6 +19594,12 @@
     "description": "App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android)...",
     "icon": "https://portable-linux-apps.github.io/icons/waydroid-helper.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "waywallen",
+    "description": "A dynamic wallpaper manager for linux desktops...",
+    "icon": "https://portable-linux-apps.github.io/icons/waywallen.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "wazo-desktop",
