@@ -19668,9 +19668,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "v2rayN",
+    "packageName": "v2rayn",
     "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others...",
-    "icon": "https://portable-linux-apps.github.io/icons/v2rayN.png",
+    "icon": "https://portable-linux-apps.github.io/icons/v2rayn.png",
     "arch": ["x86_64","aarch64"]
   },
   {
