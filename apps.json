@@ -7123,13 +7123,13 @@
   },
   {
     "packageName": "gnome-pomodoro",
-    "description": "A productivity tool designed to help you manage your time effectively using the Pomodoro Technique...",
+    "description": "Unofficial. A productivity tool designed to help you manage your time effectively using the Pomodoro Technique...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gnome-pomodoro.png",
     "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "gnome-system-monitor",
-    "description": "System Monitor is a process viewer and system monitor with an attractive, easy-to-use interface for the GNOME desktop environment...",
+    "description": "Unofficial. System Monitor is a process viewer and system monitor with an attractive, easy-to-use interface for the GNOME desktop environment...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gnome-system-monitor.png",
     "arch": ["x86_64","aarch64"]
   },
