@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **198** programs and **1** items for this category.
+#### Here are listed **197** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -177,7 +177,6 @@
 | <img loading="lazy" src="icons/listen1-desktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***listen1-desktop***](apps/listen1-desktop.md) | *One for all free music in China.*..[ *read more* ](apps/listen1-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/listen1-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/listen1-desktop) |
 | <img loading="lazy" src="icons/lmms.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lmms***](apps/lmms.md) | *FL Studio® alternative that allows you to produce music with the PC.*..[ *read more* ](apps/lmms.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lmms) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lmms) |
 | <img loading="lazy" src="icons/lossless-cut.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lossless-cut***](apps/lossless-cut.md) | *The swiss army knife of lossless video/audio editing.*..[ *read more* ](apps/lossless-cut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lossless-cut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lossless-cut) |
-| <img loading="lazy" src="icons/losslesscut.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***losslesscut***](apps/losslesscut.md) | *The swiss army knife of lossless video/audio editing.*..[ *read more* ](apps/losslesscut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/losslesscut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/losslesscut) |
 | <img loading="lazy" src="icons/lovelive.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lovelive***](apps/lovelive.md) | *A LoveLiver Music Player.*..[ *read more* ](apps/lovelive.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lovelive) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lovelive) |
 | <img loading="lazy" src="icons/lrcget.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lrcget***](apps/lrcget.md) | *Utility for mass-downloading LRC synced lyrics for your offline music library.*..[ *read more* ](apps/lrcget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lrcget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lrcget) |
 | <img loading="lazy" src="icons/lx-music-desktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lx-music-desktop***](apps/lx-music-desktop.md) | *一个基于electron的音乐软件.*..[ *read more* ](apps/lx-music-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lx-music-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lx-music-desktop) |

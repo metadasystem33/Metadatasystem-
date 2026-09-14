@@ -10362,12 +10362,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "losslesscut",
-    "description": "The swiss army knife of lossless video/audio editing...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/losslesscut.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "love",
     "description": "The unquestionably awesome 2D game engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/love.png",
@@ -12898,6 +12892,12 @@
     "description": "Download and manage your Audible audiobooks...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openaudible.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "openbitfun",
+    "description": "OpenBitFun is an open-source desktop workspace for AI agents. It brings together a fast, reliable Rust Agent Runtime, a powerful, flexible Agent Harness, and a polished desktop experience to make working with agents straightforward...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openbitfun.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "openblok",
