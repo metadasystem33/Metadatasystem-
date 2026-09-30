@@ -16536,15 +16536,9 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "opencoduo-client",
-    "description": "United Offensive multiplayer client...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo-client.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "opencoduo-server",
-    "description": "United Offensive multiplayer server...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo-server.png",
+    "packageName": "opencoduo",
+    "description": "United Offensive multiplayer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo.png",
     "arch": ["x86_64"]
   },
   {
@@ -25926,6 +25920,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "warpinator",
+    "description": "Send and receive files across a local network...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/warpinator.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "warteschlangensimulator",
     "description": "A free, platform independent, discrete-event, stochastic simulator which allows to model queueing systems in form of flowcharts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/warteschlangensimulator.png",
@@ -26644,6 +26644,12 @@
     "description": "Weather companion for the terminal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wthrr.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wudict",
+    "description": "Fast, native, self-contained, multi-format dictionary server that runs in your browser at http://localhost:6888. Reads AARD2 (.slob), MDict (.mdx/.mdd), Babylon (.bgl), Stardict (.ifo), Lingvo (.dsl), ZIM (.zim), wudict markdown (.wudict.md/.wudict.md.gz) dictionary formats...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wudict.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "wxmaxima",
