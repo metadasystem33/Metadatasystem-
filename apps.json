@@ -9390,6 +9390,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "designcraft",
+    "description": "Open-source page layout and publishing, rebuilt in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/designcraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "designguarddesktopapp",
     "description": "Pre-flight checks for KiCAD PCB designs...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/designguarddesktopapp.png",
@@ -11061,6 +11067,12 @@
     "packageName": "eez-studio",
     "description": "Cross-platform low-code GUI and automation...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/eez-studio.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "effectcraft",
+    "description": "Open-source motion graphics and visual effects, built in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/effectcraft.png",
     "arch": ["x86_64"]
   },
   {
@@ -12753,6 +12765,12 @@
     "packageName": "filezilla",
     "description": "Unofficial. The free FTP solution with support for FTP over TLS and SFTP...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/filezilla.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "filmcraft",
+    "description": "Professional, open-source video editing, rebuilt from scratch in Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/filmcraft.png",
     "arch": ["x86_64"]
   },
   {
@@ -20991,6 +21009,12 @@
     "packageName": "light-phone-manager",
     "description": "A simple app to manage installing Light Phone tools on your Light Phone 3 and automatically backup photos and videos...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/light-phone-manager.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "lightcraft",
+    "description": "An open-source photo library and raw developer that runs on your machine...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lightcraft.png",
     "arch": ["x86_64"]
   },
   {
@@ -30180,6 +30204,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "photocraft",
+    "description": "The open-source image editor you already know how to use...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photocraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "photocrea",
     "description": "Unofficial. Photopea wrapper, image editor with layers, filters, and selection tools...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photocrea.png",
@@ -31648,6 +31678,12 @@
     "description": "Open-source local print agent that enables stable silent printing from web applications...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/print-bridge.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "printcraft",
+    "description": "read, organize, combine, split and secure...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printcraft.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "printenv",
@@ -42261,6 +42297,12 @@
     "packageName": "vector",
     "description": "Vector is a decentralized communication platform built on the Nostr Protocol...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vector.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "vectorcraft",
+    "description": "Fast, open-source vector illustration, reimagined in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vectorcraft.png",
     "arch": ["x86_64"]
   },
   {
