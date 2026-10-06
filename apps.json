@@ -5172,12 +5172,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "bridgecmdr",
-    "description": "Raspberry Pi professional A/V switch and monitor controller for retro gaming...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bridgecmdr.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "brisk",
     "description": "Ultra-fast, moden download manager for desktop...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/brisk.png",
