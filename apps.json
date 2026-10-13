@@ -1770,9 +1770,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "animevaultofficial",
+    "packageName": "animevault",
     "description": "Ultra-low latency video player with modern controls and smooth playback...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/animevaultofficial.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/animevault.png",
     "arch": ["x86_64"]
   },
   {
@@ -5580,9 +5580,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "bus-scope-official",
+    "packageName": "bus-scope",
     "description": "Community Edition includes USBPcap/usbmon capture, packet and protocol evidence, descriptors, endpoints, HID, CDC, Mass Storage, and UVC...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bus-scope-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bus-scope.png",
     "arch": ["x86_64"]
   },
   {
@@ -10722,9 +10722,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "dental-ark-official",
+    "packageName": "dental-ark",
     "description": "Free Community Edition dental clinic management software for local patients, appointments, FDI charting, billing, visit workflow, and restorable backups...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dental-ark-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dental-ark.png",
     "arch": ["x86_64"]
   },
   {
@@ -15900,9 +15900,9 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "fretboard-lab-official",
+    "packageName": "fretboard-lab",
     "description": "Free Community Edition guitar chord chart maker and chord finder for playable voicings, alternate tunings, progressions, and fretboard study...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fretboard-lab-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fretboard-lab.png",
     "arch": ["x86_64"]
   },
   {
@@ -24774,9 +24774,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "lowend-forge-official",
+    "packageName": "lowend-forge",
     "description": "Free Community Edition bass tab generator and bass transcription software for local audio-to-tab evidence, four-string review, and correction...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lowend-forge-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lowend-forge.png",
     "arch": ["x86_64"]
   },
   {
@@ -33672,9 +33672,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "pcap-surgery-official",
+    "packageName": "pcap-surgery",
     "description": "Free Community Edition PCAP analyzer and PCAP editor for local packet detail, bounded rewrite previews, checksum repair, and privacy evidence...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pcap-surgery-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pcap-surgery.png",
     "arch": ["x86_64"]
   },
   {
@@ -35796,9 +35796,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "practice-rack-official",
+    "packageName": "practice-rack",
     "description": "Free Community Edition standalone amp sim and guitar effects rack with a local signal chain, cabinet IR, tuner, looper, recorder, and reusable presets...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/practice-rack-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/practice-rack.png",
     "arch": ["x86_64"]
   },
   {
@@ -39300,9 +39300,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "rtsp-inspector-official",
+    "packageName": "rtsp-inspector",
     "description": "Free Community Edition RTSP stream tester and diagnostic tool for RTSP/RTP/RTCP/H.264 evidence, IP-camera troubleshooting, and JSON preview...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rtsp-inspector-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rtsp-inspector.png",
     "arch": ["x86_64"]
   },
   {
@@ -40590,9 +40590,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "session-craft-official",
+    "packageName": "session-craft",
     "description": "Free Community Edition music practice app and stem separation workstation for private local songs, loops, speed, pitch, and six-stem rehearsal...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/session-craft-official.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/session-craft.png",
     "arch": ["x86_64"]
   },
   {
