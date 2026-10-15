@@ -2364,12 +2364,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "apple-music-linux",
-    "description": "An Apple Music desktop client for Linux — lossless audio, music videos, downloads, and a native-feeling UI...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/apple-music-linux.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "apple-pickup-watcher",
     "description": "A free, open-source tool for monitoring in-store pickup inventory and receiving stock alerts for Apple Stores...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/apple-pickup-watcher.png",
@@ -2571,12 +2565,6 @@
     "packageName": "archtoys",
     "description": "PowerToys-like color picker for Linux (Slint-based)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/archtoys.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "arco",
-    "description": "Multiplexer de agentes de codigo — fork do Alethe com ditado por voz local...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/arco.png",
     "arch": ["x86_64"]
   },
   {
@@ -2901,12 +2889,6 @@
     "packageName": "asrpro",
     "description": "AI powered desktop transcription app with real time speech recognition, file transcription, global hotkeys, and SRT subtitle export...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/asrpro.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "assayplot",
-    "description": "Free, open-source statistics and publication figures for the lab. 43 analyses checked against R. Runs offline on macOS, Windows and Linux...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/assayplot.png",
     "arch": ["x86_64"]
   },
   {
