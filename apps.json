@@ -46152,6 +46152,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "ting",
+    "description": "Eusoft Ting (Daily English Listening), an English learning app with listening practice and audio courses...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ting.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tinywiibackupmanager",
     "description": "⭐ A tiny game backup and homebrew app manager for the Wii...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tinywiibackupmanager.png",
@@ -50865,6 +50871,12 @@
     "packageName": "wps-office",
     "description": "Unofficial. All-in-one office suite featuring Writer, Presentation, Spreadsheets, and PDF editor compatible with Microsoft Office...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wps-office.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wpsoffice-cn",
+    "description": "Unofficial wpsoffice-cn AppImage. Kingsoft Office (WPS Office) CN version - an office productivity suite...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wpsoffice-cn.png",
     "arch": ["x86_64"]
   },
   {
