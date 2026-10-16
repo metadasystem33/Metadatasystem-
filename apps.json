@@ -26659,9 +26659,9 @@
   },
   {
     "packageName": "memoto",
-    "description": "DevOps oriented modeling tool...",
+    "description": "A text-file-based modeling tool focused on DevOps workflows...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/memoto.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "memrylab",
@@ -35800,6 +35800,12 @@
     "description": "Simple and visually-pleasing Pomodoro timer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pomotroid.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "poncho-wonky",
+    "description": "A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/poncho-wonky.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "poorman",
