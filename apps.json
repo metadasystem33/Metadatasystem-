@@ -5736,12 +5736,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "caca-cliente",
-    "description": "A ferramenta oficial do curso Sites com IA do Zero — encontre negócios sem site na sua cidade e feche seu primeiro cliente...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/caca-cliente.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "cacher",
     "description": "Cacher is a code snippet library for professional developers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cacher.png",
