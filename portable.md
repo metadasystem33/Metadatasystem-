@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **594** portable programs NOT in AppImage format.
+#### Here are listed **593** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -409,7 +409,6 @@
 | <img loading="lazy" src="icons/mcfly.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mcfly***](apps/mcfly.md) | *Fly through your shell history. Great Scott!*..[ *read more* ](apps/mcfly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcfly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcfly) |
 | <img loading="lazy" src="icons/md5sum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***md5sum***](apps/md5sum.md) | *Compute and check MD5 message digest. This is part of "am-utils" suite.*..[ *read more* ](apps/md5sum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/md5sum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/md5sum) |
 | <img loading="lazy" src="icons/mdcat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mdcat***](apps/mdcat.md) | *Command line, "cat" for markdown.*..[ *read more* ](apps/mdcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdcat) |
-| <img loading="lazy" src="icons/melonds.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***melonds***](apps/melonds.md) | *DS emulator, sorta.*..[ *read more* ](apps/melonds.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonds) |
 | <img loading="lazy" src="icons/menyoki.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***menyoki***](apps/menyoki.md) | *Screen{shot,cast} and perform ImageOps on the command line.*..[ *read more* ](apps/menyoki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/menyoki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/menyoki) |
 | <img loading="lazy" src="icons/mercury.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mercury***](apps/mercury.md) | *Firefox fork with compiler optimizations and patches from Librewolf.*..[ *read more* ](apps/mercury.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mercury) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mercury) |
 | <img loading="lazy" src="icons/minecraft-launcher.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***minecraft-launcher***](apps/minecraft-launcher.md) | *Game downloader and launcher for Minecraft.*..[ *read more* ](apps/minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minecraft-launcher) |
