@@ -37458,6 +37458,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "qbittorrent-enhanced",
+    "description": "Unofficial. qBittorrent Enhanced Edition, featuring auto-banning leechers and peer filtering...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qbittorrent-enhanced.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "qcadesigner-e",
     "description": "Extended QCADesigner with estimation of energy dissipation....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qcadesigner-e.png",
