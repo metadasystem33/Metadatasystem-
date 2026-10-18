@@ -26142,12 +26142,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "marginalia",
-    "description": "A library-science-inspired personal knowledge management system with LLM agents...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/marginalia.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "marina",
     "description": "Re-define terminal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/marina.png",
@@ -45594,12 +45588,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "talktype",
-    "description": "Linux speech to text app...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/talktype.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "talon",
     "description": "Native chat client for Urbit — Android, Linux, macOS, Windows...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/talon.png",
@@ -47817,6 +47805,12 @@
     "packageName": "tuxpusher",
     "description": "Coin pusher game featuring Tux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tuxpusher.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tuxtalk",
+    "description": "Free push-to-talk voice dictation for Linux. Hold a key, talk, let go. Works on Wayland and X11, runs offline with Parakeet or Whisper, and fixes \"no wait\" slips with an optional local AI...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tuxtalk.png",
     "arch": ["x86_64"]
   },
   {
@@ -51543,12 +51537,6 @@
     "packageName": "wps-office",
     "description": "Unofficial. All-in-one office suite featuring Writer, Presentation, Spreadsheets, and PDF editor compatible with Microsoft Office...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wps-office.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "wpsoffice-cn",
-    "description": "Unofficial wpsoffice-cn AppImage. Kingsoft Office (WPS Office) CN version - an office productivity suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wpsoffice-cn.png",
     "arch": ["x86_64"]
   },
   {
