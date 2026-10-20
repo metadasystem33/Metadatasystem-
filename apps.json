@@ -21732,6 +21732,18 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "kage-cli",
+    "description": "A fast, hackable coding agent for your terminal, editor and browser...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kage-cli.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "kage-desktop",
+    "description": "A fast, hackable coding agent for your terminal, editor and browser...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kage-desktop.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "kai",
     "description": "OpenClaw alternative in your pocket...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kai.png",
@@ -42996,12 +43008,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "snap-note",
-    "description": "A modern desktop note-taking app with clipboard capture, OCR, and dark mode...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/snap-note.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "snap-prompt",
     "description": "Snap Prompts is a modern desktop application designed for AI artists and Stable Diffusion users. It solves the problem of scattered prompt libraries by providing a centralized, secure way to store, edit, and visualize your prompts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/snap-prompt.png",
@@ -43803,12 +43809,6 @@
     "packageName": "spotifetch",
     "description": "A simple and beautiful CLI fetch tool for spotify, now rusty...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spotifetch.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "spotiflac",
-    "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spotiflac.png",
     "arch": ["x86_64"]
   },
   {
