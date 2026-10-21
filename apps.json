@@ -678,12 +678,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "agent2api",
-    "description": "Packages WorkBuddy, Little Raccoon, CatPaw, AutoClaw and other client login states into an OpenAI compatible interface, with account management, outbound fingerprint desensitization and request reports....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agent2api.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "agentbox",
     "description": "each agent gets its own Linux machine, desktop and branch, directed by a lead chat. Claude Code, Codex and OpenCode...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agentbox.png",
@@ -1827,12 +1821,6 @@
     "packageName": "aniship",
     "description": "Allows for easy viewing of anime on PCs and laptops...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aniship.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "aniwings-app",
-    "description": "Clean UI · SUB & DUB · Extensions · Downloads · Anime Tracking · TV & Desktop Support...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aniwings-app.png",
     "arch": ["x86_64"]
   },
   {
@@ -4449,12 +4437,6 @@
     "packageName": "bettersis",
     "description": "Modern shell for SIS...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bettersis.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "bettersource2viewer",
-    "description": "BetterSource2Viewer - fork of Source2Viewer with additional features...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bettersource2viewer.png",
     "arch": ["x86_64"]
   },
   {
@@ -7686,12 +7668,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "clawcontroller",
-    "description": "ClawController is a dedicated administration app designed to orchestrate your OpenClaw Gateway instances without having to dig through command lines...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/clawcontroller.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "clawd-on-desk",
     "description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/clawd-on-desk.png",
@@ -10264,12 +10240,6 @@
     "description": "Display bullet comments directly on the desktop...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/danmu-desktop.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "dardcor-code",
-    "description": "Desktop Code Editor Powered by Electron, Monaco Editor & Local AI Routing..",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dardcor-code.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "darkplaces",
