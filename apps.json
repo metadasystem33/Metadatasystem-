@@ -16242,6 +16242,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "freerouting",
+    "description": "Freerouting is a versatile PCB auto-router that works with any PCB design software...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/freerouting.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "freeshow",
     "description": "User-friendly presenter software...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/freeshow.png",
@@ -51993,6 +51999,12 @@
     "packageName": "wps-office",
     "description": "Unofficial. All-in-one office suite featuring Writer, Presentation, Spreadsheets, and PDF editor compatible with Microsoft Office...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wps-office.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wps-office-cn",
+    "description": "Unofficial. AppImage of WPS Office CN, the Chinese version of free Office suite built for everyday work — bringing Writer, Spreadsheet, Presentation, and PDF together with AI Copilot, Cloud Docs, and seamless multi-device sync...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wps-office-cn.png",
     "arch": ["x86_64"]
   },
   {
