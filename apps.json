@@ -10662,12 +10662,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "deepseek-harness-code",
-    "description": "Community desktop packaging for DeepSeek Harness with an Electron host, integrated plugins, and an independent watchdog...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/deepseek-harness-code.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "deepseek-harness-desktop",
     "description": "Unofficial. DeepSeek Harness ( dsh ) is an open-source agent harness developed by DeepSeek AI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/deepseek-harness-desktop.png",
