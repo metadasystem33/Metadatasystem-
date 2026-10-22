@@ -132,12 +132,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "7z",
-    "description": "Archiver with a high compression ratio. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/7z.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "7zip",
     "description": "7-Zip is a file archiver with a high compression ratio...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/7zip.png",
@@ -364,12 +358,6 @@
     "description": "A simple, modern GUI for ADB, Fastboot and Scrcpy...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/adbkit.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "addr2line",
-    "description": "Or symbol+offset into file names and. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/addr2line.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "adelie",
@@ -2484,12 +2472,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "ar",
-    "description": "Create, modify, and extract from .deb archives. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ar.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "ar-recomp",
     "description": "ActRaiser (SNES) Recompilation Project...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ar-recomp.png",
@@ -2524,12 +2506,6 @@
     "description": "Open-source desktop video downloader powered by yt-dlp and electron. Download videos and audio from YouTube, Vimeo, Twitter, and thousands of sites...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/arcdlp.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "arch",
-    "description": "Hardware name (same as uname -m). This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/arch.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "arch-deployer",
@@ -2818,12 +2794,6 @@
     "description": "Unofficial. Cross-platform port of Arx Fatalis, a first-person role-playing game...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/arx-libertatis.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "as",
-    "description": "GNU assembler.. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/as.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "asale",
@@ -3708,12 +3678,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "b2sum",
-    "description": "Check BLAKE2 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/b2sum.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "babelchat",
     "description": "WoW addon glosses 436 gaming terms inline, free companion app translates whole sentences in an overlay...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/babelchat.png",
@@ -3960,18 +3924,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "base32",
-    "description": "Base32 encode/decode data and print to standard. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/base32.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "base64",
-    "description": "Base64 encode/decode data and print to standard. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/base64.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "based",
     "description": "Git-Friendly Database Client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/based.png",
@@ -3982,18 +3934,6 @@
     "description": "A modern desktop database manager built in Rust — fast, native, multi-driver...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/basemaster.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "basename",
-    "description": "Strip directory and suffix from filenames. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/basename.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "basenc",
-    "description": "Encode and decode with multiple base encodings.. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/basenc.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "basesmall",
@@ -5802,18 +5742,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "bzip2",
-    "description": "A high-quality data compression program. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bzip2.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "c++filt",
-    "description": "And Java symbols. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/c++filt.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "c-dogs-sdl",
     "description": "Unofficial. C-Dogs SDL. A modern SDL-based port of the classic overhead action game C-Dogs...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/c-dogs-sdl.png",
@@ -6345,12 +6273,6 @@
     "packageName": "castle",
     "description": "A minimal agent. A native agent harness with a GPUI desktop application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/castle.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "cat",
-    "description": "Concatenate files and print on the standard output. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cat.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -6942,12 +6864,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "chcon",
-    "description": "Security context. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chcon.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "cheat",
     "description": "Create and view interactive cheatsheets on the command-line...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cheat.png",
@@ -7026,12 +6942,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "chgrp",
-    "description": "Change group ownership. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chgrp.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "chiaki4deck",
     "description": "An open source PlayStation remote play project...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chiaki4deck.png",
@@ -7104,12 +7014,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "chmod",
-    "description": "Change file mode bits. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chmod.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "chonkcraft",
     "description": "Battle.net Edition...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chonkcraft.png",
@@ -7132,12 +7036,6 @@
     "description": "Super fast database management tool...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/choscordb.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "chown",
-    "description": "Change file owner and group. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chown.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "chrome-isolation",
@@ -7198,12 +7096,6 @@
     "description": "All-in-one timer, stopwatch, pomodoro, alarm, todo, time tracker and flashcards app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chronomi.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "chroot",
-    "description": "Run command or interactive shell with special root. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chroot.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "chrysalis-bin",
@@ -7354,12 +7246,6 @@
     "description": "A simple mdict dictionary...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ciyue.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "cksum",
-    "description": "Compute and verify file checksums. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cksum.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "clagrange",
@@ -7786,12 +7672,6 @@
     "description": "System cleaning Rust CLI with user land or root selection options...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cleansys.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "clear",
-    "description": "Clear the terminal screen. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/clear.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "clearcore",
@@ -8574,22 +8454,10 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "col",
-    "description": "Line feeds from input. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/col.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "colamd",
     "description": "A free, elegant Markdown editor for macOS, Windows and Linux. Simple by design, always in sync with the file on disk...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/colamd.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "colcrt",
-    "description": "Output for CRT previewing. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/colcrt.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "coldmill",
@@ -8682,18 +8550,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "colrm",
-    "description": "From a file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/colrm.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "column",
-    "description": "Columnate lists. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/column.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "comail",
     "description": "Blazing fast email client with keyboard shortcuts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/comail.png",
@@ -8764,12 +8620,6 @@
     "description": "A multi-platform app for writing metadata to digital comics...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/comictagger.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "comm",
-    "description": "Compare two sorted files line by line. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/comm.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "comma-sync",
@@ -9474,12 +9324,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "cp",
-    "description": "Copy files and directories. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cp.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "cpeditor",
     "description": "Code editor specially designed for competitive programming...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cpeditor.png",
@@ -9882,12 +9726,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "csplit",
-    "description": "File into sections determined by context. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/csplit.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "ctass",
     "description": "A virtual whip for your screen. Swing the mouse, flick it, crack...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ctass.png",
@@ -9984,12 +9822,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "curl",
-    "description": "Command line tool and library for transferring data with URLs. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/curl.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "curlie",
     "description": "The power of curl, the ease of use of httpie...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/curlie.png",
@@ -10060,12 +9892,6 @@
     "description": "An electron-vue project...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/customrpc.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "cut",
-    "description": "From each line of files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cut.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "cutawan",
@@ -10398,12 +10224,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "date",
-    "description": "A header-only library which builds upon <chrono>. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/date.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "dawn",
     "description": "An installer and launcher for Dawn. Dawn adds authored Lua missions, native gameplay systems, and an in-game loadout studio. The player release includes the DLL, mission scripts, default settings, vendor rules, and event presets together. The game itself is not included...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dawn.png",
@@ -10612,12 +10432,6 @@
     "description": "Emulator of DCF77 time signal through audiochannel...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dcf77-soundwave.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "dd",
-    "description": "Convert and copy a file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dd.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "ddalab",
@@ -11256,12 +11070,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "df",
-    "description": "Report file system space usage. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/df.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "dfdemo",
     "description": "A thin Tcl/Tk GUI around the df POSIX command...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dfdemo.png",
@@ -11350,12 +11158,6 @@
     "description": "Detect It Easy, a program for determining types of files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/die-engine.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "diff",
-    "description": "Compare files line by line. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/diff.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "differ",
@@ -11460,28 +11262,10 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "dir",
-    "description": "List directory contents. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dir.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "dircolors",
-    "description": "For ls. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dircolors.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "directorprompt",
     "description": "AI non-playing interactive novel game framework based on C#....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/directorprompt.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "dirname",
-    "description": "Strip last component from file name. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dirname.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "disass",
@@ -12432,12 +12216,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "du",
-    "description": "Estimate file space usage. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/du.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "dua",
     "description": "View disk space usage and delete unwanted data, fast...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dua.png",
@@ -12876,12 +12654,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "echo",
-    "description": "Display a line of text. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/echo.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "echo-messenger",
     "description": "Lightweight, cross-platform encrypted messenger. Rust server + Flutter UI + Signal Protocol (X3DH + Double Ratchet)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/echo-messenger.png",
@@ -13278,12 +13050,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "elfedit",
-    "description": "Header and program property of ELF files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/elfedit.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "eli-v2-0",
     "description": "voice, vision, memory, 227 capabilities. Runs entirely on your hardware. Offline by default...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/eli-v2-0.png",
@@ -13594,12 +13360,6 @@
     "description": "https://entropy.tools...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/entropy.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "env",
-    "description": "Run a program in a modified environment. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/env.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "enve",
@@ -14130,12 +13890,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "expand",
-    "description": "Convert tabs to spaces. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/expand.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "expert-streaming-engine",
     "description": "Run oversized sparse MoE GGUF models with bounded NVMe-to-RAM-to-VRAM caching, native multi-GPU planning, and a Linux desktop Studio...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/expert-streaming-engine.png",
@@ -14158,12 +13912,6 @@
     "description": "Read and search your exports...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/exportoo.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "expr",
-    "description": "Evaluate expressions. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/expr.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "exr-converter",
@@ -14310,12 +14058,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "factor",
-    "description": "A general purpose, dynamically typed, stack-based programming language.. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/factor.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "factorai",
     "description": "Agentic Development Environment (ADE) for the AI era...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/factorai.png",
@@ -14368,12 +14110,6 @@
     "description": "Fallback keeps the GitHub context your repo work depends on available locally, even when GitHub is down or you have no internet...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fallback.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "false",
-    "description": "Do nothing, unsuccessfully. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/false.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "familyco",
@@ -14916,12 +14652,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "file",
-    "description": "Determine the type of a file from its contents. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/file.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "file-commander",
     "description": "CLI, cross-platform Total Commander-like orthodox file manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/file-commander.png",
@@ -15022,12 +14752,6 @@
     "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/finceptterminal.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "find",
-    "description": "Files in a directory hierarchy. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/find.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "findx",
@@ -15744,12 +15468,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "fmt",
-    "description": "Text formatter. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fmt.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "fnordlauncher",
     "description": "Prism Launcher fork with support for alternative auth servers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fnordlauncher.png",
@@ -15838,12 +15556,6 @@
     "description": "Notification Agent for Alertmanager. Especially nice with macos...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/foghorn.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "fold",
-    "description": "Wrap each input line to fit in specified width. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fold.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "folderskin",
@@ -16834,12 +16546,6 @@
     "description": "Minimalist task launcher..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gaucho.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "gawk",
-    "description": "GNU version of awk. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gawk.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "gazboard",
@@ -18240,36 +17946,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "gp-archive",
-    "description": "Archive profiling experiment data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gp-archive.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gp-collect-app",
-    "description": "Collect application performance profiling data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gp-collect-app.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gp-display-html",
-    "description": "Generate HTML reports from profiling data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gp-display-html.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gp-display-src",
-    "description": "Display source code annotated with profiling data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gp-display-src.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gp-display-text",
-    "description": "Display profiling data in plain text format. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gp-display-text.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "gpg-tui",
     "description": "CLI, manage your GnuPG keys with ease!..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gpg-tui.png",
@@ -18304,54 +17980,6 @@
     "description": "A satellite tracking application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gpredict.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "gprof",
-    "description": "Graph profile data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprof.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng",
-    "description": "Generation GNU application profiling tool. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng-archive",
-    "description": "Experiment data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng-archive.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng-collect-app",
-    "description": "Data for the target. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng-collect-app.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng-display-html",
-    "description": "HTML based directory structure. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng-display-html.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng-display-src",
-    "description": "Code and optionally. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng-display-src.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng-display-text",
-    "description": "Performance data in plain text. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng-display-text.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "gprofng-gmon",
-    "description": "Display or convert GNU gmon profiling data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gprofng-gmon.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "gpt-anywhere",
@@ -18522,12 +18150,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "grep",
-    "description": "A string search utility. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/grep.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "greybeard",
     "description": "Your senior Microsoft 365, Intune, and Entra admin, installed in the AI client you already use. Agent Skills plus MCP servers for Claude Code, Cursor, Codex, Gemini, and GitHub Copilot, with a human approval gate on every tenant write...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/greybeard.png",
@@ -18682,12 +18304,6 @@
     "description": "Graphical Editor to create BehaviorTrees...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/groot.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "groups",
-    "description": "Print the groups a user is in. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/groups.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "grubielauncher",
@@ -19146,12 +18762,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "hd",
-    "description": "Small hex dumper utility (with optional HexII output). This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hd.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "hd-fpv-video-tool",
     "description": "A software tool to manipulate video files and OSD files recoded with the DJI and Walksnail Avatar FPV systems...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hd-fpv-video-tool.png",
@@ -19186,12 +18796,6 @@
     "description": "A cross-platform client desktop application built on the Hierarchical Deterministic (HD) Wallet Library...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hdwallet-desktop.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "head",
-    "description": "Output the first part of files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/head.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "headlamp",
@@ -19506,12 +19110,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "hexdump",
-    "description": "Display file contents in hexadecimal format. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hexdump.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "hexinator",
     "description": "Hex editor for reverse engineering & binary file analysis...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hexinator.png",
@@ -19786,12 +19384,6 @@
     "description": "Might be your next voice input method....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hoshiro.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "hostid",
-    "description": "Print the numeric identifier for the current host. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hostid.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "hotclip",
@@ -20242,12 +19834,6 @@
     "description": "A collection of ansi/bbs related applications...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/icy-tools.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "id",
-    "description": "Print real and effective user and group IDs. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/id.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "ide99",
@@ -20764,12 +20350,6 @@
     "description": "Unofficial Insta360 Luna Ultra Companion Desktop Application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/insta360-luna-ultra-desktop.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "install",
-    "description": "Copy files and set attributes. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/install.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "instaloader-gui-wrapper",
@@ -21544,12 +21124,6 @@
     "description": "JobSentinel is an open-source, local-first job-search assistant for finding..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jobsentinel.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "join",
-    "description": "Of two files on a common field. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/join.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "join-desktop",
@@ -22642,18 +22216,6 @@
     "description": "Play music from youtube on desktop. Supports local api, invidious and piped as source...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kiku.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "kill",
-    "description": "Terminate a process. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kill.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "killall",
-    "description": "Kill processes by name. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/killall.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "killbots",
@@ -24054,18 +23616,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "ld",
-    "description": "Standalone Linker Compiler. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ld.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "ld.bfd",
-    "description": "The GNU linker with BFD libraries. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ld.bfd.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "ldoce5viewerx",
     "description": "LDOCE5 Viewer X is a desktop dictionary viewer for the Longman Dictionary of Contemporary English 5th Edition...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ldoce5viewerx.png",
@@ -24316,12 +23866,6 @@
     "description": "Unofficial. ReShade installer for Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/leshade.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "less",
-    "description": "A terminal based program for viewing text files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/less.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "lessai",
@@ -24702,12 +24246,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "link",
-    "description": "Call the link function to create a link to a file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/link.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "link-helm",
     "description": "Link Helm is a browser identity router for macOS, Windows, and Linux. It receives HTTP and HTTPS links from the system and routes them to a specific browser Profile according to the source application, domain, and your rules. This keeps work accounts, personal accounts, and other browsing contexts separated...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/link-helm.png",
@@ -25062,12 +24600,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "ln",
-    "description": "Make links between files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ln.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "lnwjud",
     "description": "Lnwjud — local AI-agent runtime & MCP gateway...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lnwjud.png",
@@ -25344,12 +24876,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "logname",
-    "description": "Print user's login name. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/logname.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "logseq",
     "description": "A privacy-first platform for knowledge management and collaboration...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/logseq.png",
@@ -25384,12 +24910,6 @@
     "description": "A desktop launcher for lzt.market buyers—log in to purchased accounts with a single click...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lolzteam-launcher.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "look",
-    "description": "Beginning with a given string. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/look.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "lookatstudy",
@@ -25606,12 +25126,6 @@
     "description": "A local reverse proxy tool built with Tauri 2 and React that intercepts API requests from the Claude desktop client, dynamically replaces model names before forwarding them to a third-party API, and relays the response via SSE streaming...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lrp-mnm.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "ls",
-    "description": "List directory contents. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ls.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "lsd",
@@ -26790,12 +26304,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mawk",
-    "description": "And text processing language. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mawk.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "maximumtrainer-redux",
     "description": "The original cross platform indoor cycling solution...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/maximumtrainer-redux.png",
@@ -26920,12 +26428,6 @@
     "description": "A new launcher for Minecraft Java/Bedrock on Windows...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/md3l.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "md5sum",
-    "description": "Compute and check MD5 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/md5sum.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "mdcat",
@@ -28110,40 +27612,16 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mkdir",
-    "description": "Make directories. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mkdir.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "mke2fs",
     "description": "Creates ext2/ext3/ext4 Linux filesystems. This is part of \"platform-tools\"...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mke2fs.png",
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mkfifo",
-    "description": "Make FIFOs (named pipes). This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mkfifo.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "mki3dgame",
     "description": "A game of searching, in 3D stages...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mki3dgame.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "mknod",
-    "description": "Make block or character special files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mknod.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "mktemp",
-    "description": "Create a temporary file or directory. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mktemp.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "mkvtoolnix",
@@ -28674,12 +28152,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "more",
-    "description": "Display the contents of a file in a terminal. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/more.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "mori-canvas",
     "description": "Talk, or paste a transcript, and AI turns it into sticky notes and a relationship diagram on a live multiplayer meeting whiteboard. Self-hosted, MIT...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mori-canvas.png",
@@ -28749,12 +28221,6 @@
     "packageName": "motrix-next",
     "description": "A full-featured download manager rebuilt from the ground up...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/motrix-next.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "mount",
-    "description": "Mount a filesystem. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mount.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -29337,12 +28803,6 @@
     "packageName": "muxin",
     "description": "agent sessions, desktops, files, logs and GitHub across your Macs, Linux and Windows machines, with an MCP server...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/muxin.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "mv",
-    "description": "Move (rename) files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mv.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -30354,12 +29814,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "nice",
-    "description": "Run a program with modified scheduling priority. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nice.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "nicebucket",
     "description": "A fast, private, open-source S3 GUI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nicebucket.png",
@@ -30540,18 +29994,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "nl",
-    "description": "Number lines of files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nl.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "nm",
-    "description": "From object files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nm.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "nmeasimulator",
     "description": "NMEA sentence generator utility to broadcast via TCP...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nmeasimulator.png",
@@ -30681,12 +30123,6 @@
     "packageName": "nohal",
     "description": "HAL Editor for LinuxCNC...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nohal.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "nohup",
-    "description": "Run a command immune to hangups, with output to a. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nohup.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -30966,12 +30402,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "notify-send",
-    "description": "A program to send desktop notifications. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/notify-send.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "notion-electron",
     "description": "Notion Desktop Client for Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/notion-electron.png",
@@ -31053,12 +30483,6 @@
     "packageName": "npmax",
     "description": "Project Package Manager. The open source workspace for project dependencies and installed app updates — desktop (Tauri), web analyzer, and MCP...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/npmax.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "nproc",
-    "description": "Print the number of processing units available. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nproc.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -31186,12 +30610,6 @@
     "description": "Simple notepad calculator built on Electron...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/numara.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "numfmt",
-    "description": "From/to human-readable strings. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/numfmt.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "numo9",
@@ -31360,18 +30778,6 @@
     "description": "Markdown editor with WYSIWYG inline preview support, and a clean, distraction-free interface 🚀...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/obim.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "objcopy",
-    "description": "Translate object files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/objcopy.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "objdump",
-    "description": "From object files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/objdump.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "objection-lol-recorder",
@@ -31546,12 +30952,6 @@
     "description": "Warping images and videos for planetarium fulldome display...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ocvwarp.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "od",
-    "description": "Dump files in octal and other formats. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/od.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "odamex",
@@ -34686,12 +34086,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "paste",
-    "description": "Merge lines of files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/paste.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "pasted",
     "description": "A powerful, privacy-first clipboard manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pasted.png",
@@ -34738,12 +34132,6 @@
     "description": "Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/patchy.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "pathchk",
-    "description": "File names are valid or portable. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pathchk.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "pathephone",
@@ -35812,12 +35200,6 @@
     "description": "User-friendly viewer for Parquet files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pink-parquet.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "pinky",
-    "description": "Lightweight finger. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pinky.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "pinokio",
@@ -36972,12 +36354,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "pr",
-    "description": "Files for printing. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pr.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "pr-cockpit",
     "description": "Local AI PR workbench — Claude/Codex review in isolated git worktrees, human-gated GitHub comments...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pr-cockpit.png",
@@ -37080,22 +36456,10 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "printenv",
-    "description": "Print all or part of environment. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printenv.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "printerclient",
     "description": "A printer client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printerclient.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "printf",
-    "description": "Format and print data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printf.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "printnotes",
@@ -37602,12 +36966,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "ptx",
-    "description": "Permuted index of file contents. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ptx.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "ptyxis",
     "description": "Unofficial. Container-oriented terminal emulator for GNOME...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ptyxis.png",
@@ -37768,12 +37126,6 @@
     "description": "A modern, high-performance cross-platform desktop editor and parsing suite for a side-scrolling action game Script.pvf...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pvfine.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "pwd",
-    "description": "Print name of current/working directory. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pwd.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "pxmodrim",
@@ -38820,12 +38172,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "ranlib",
-    "description": "Index to an archive. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ranlib.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "rapidcmi5",
     "description": "RapidCMI5 is a CMI5 course creation toolset...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rapidcmi5.png",
@@ -39090,12 +38436,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "readelf",
-    "description": "About ELF files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/readelf.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "reader",
     "description": "A fast, minimal PDF reader with annotations, read tracking, and a clean library view...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/reader.png",
@@ -39111,12 +38451,6 @@
     "packageName": "readest-unlocked",
     "description": "Automatically builds an unlocked (premium client gates removed) Readest from upstream readest/readest via GitHub Actions...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/readest-unlocked.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "readlink",
-    "description": "Print resolved symbolic links or canonical file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/readlink.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -39142,12 +38476,6 @@
     "description": "A tool for everything Realm...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/realm-studio.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "realpath",
-    "description": "Print the resolved path. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/realpath.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "reaper",
@@ -39816,12 +39144,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "rev",
-    "description": "Reverse lines characterwise. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rev.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "reva-player",
     "description": "An open source Linux media player...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/reva-player.png",
@@ -40185,18 +39507,6 @@
     "packageName": "rleapp",
     "description": "Returns Logs Events And Properties Parser...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rleapp.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "rm",
-    "description": "Remove files or directories. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rm.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "rmdir",
-    "description": "Remove empty directories. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rmdir.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -40654,12 +39964,6 @@
     "description": "Runbooks enables infrastructure experts to scale their expertise...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/runbooks.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "runcon",
-    "description": "With specified security context. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/runcon.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "rundown",
@@ -41646,12 +40950,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "sed",
-    "description": "GNU stream editor for filtering and transforming text. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sed.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "seed",
     "description": "A cross-platform launcher for the Flax game engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/seed.png",
@@ -41788,12 +41086,6 @@
     "description": "orchestrate LLM agents for autonomous exploration, refactoring, testing, and debugging. Performance, stability, security – fully harnessed...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/senweavercoding.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "seq",
-    "description": "Print a sequence of numbers. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/seq.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "ser-player",
@@ -41998,42 +41290,6 @@
     "description": "The attendance tracking program for robotics...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sfrt-attendance.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "sh",
-    "description": "GNU Bourne-Again Shell, the de facto standard shell on Linux. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sh.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "sha1sum",
-    "description": "Compute and check SHA1 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sha1sum.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "sha224sum",
-    "description": "Check SHA224 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sha224sum.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "sha256sum",
-    "description": "Compute and check SHA256 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sha256sum.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "sha384sum",
-    "description": "Check SHA384 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sha384sum.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "sha512sum",
-    "description": "Compute and check SHA512 message digest. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sha512sum.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "shadow-tech",
@@ -42306,12 +41562,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "shred",
-    "description": "Overwrite a file to hide its contents, and optionally. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/shred.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "shrike",
     "description": "your agent sees it too and fixes the real problem...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/shrike.png",
@@ -42321,12 +41571,6 @@
     "packageName": "shroudly",
     "description": "no servers, no drivers by default, nothing to configure...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/shroudly.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "shuf",
-    "description": "Generate random permutations. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/shuf.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -42780,12 +42024,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "size",
-    "description": "Sizes and total size of binary files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/size.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "sjtu-canvas-helper",
     "description": "SJTU Canvas Helper — Helps you use the Shanghai Jiao Tong University course platform more quickly and conveniently...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sjtu-canvas-helper.png",
@@ -43078,12 +42316,6 @@
     "description": "Multiplatform todo.txt manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sleek.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "sleep",
-    "description": "Delay for a specified amount of time. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sleep.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "slic3r",
@@ -43650,12 +42882,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "sort",
-    "description": "Sort lines of text files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sort.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "sososo",
     "description": "Real-time meeting & audio transcription for Windows (system audio + mic) — live captions via Deepgram, AI summaries via OpenAI. Tauri 2 + React...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sososo.png",
@@ -44025,12 +43251,6 @@
     "packageName": "splayer-next",
     "description": "🎵 Cross-platform desktop music player with rich lyric support and wide audio format compatibility. Cross-platform desktop music player with rich lyric support and wide audio format compatibility...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/splayer-next.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "split",
-    "description": "Divide a file into multiple smaller files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/split.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -44520,12 +43740,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "stat",
-    "description": "Display file or file system status. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/stat.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "statewave-admin",
     "description": "Admin dashboard and CLI for Statewave — manage episodes, memories, and subjects...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/statewave-admin.png",
@@ -44560,12 +43774,6 @@
     "description": "Block apps and websites, understand/visualize your device usage, and stay productive...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/stayfree-app.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "stdbuf",
-    "description": "With modified buffering operations for its. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/stdbuf.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "steam",
@@ -44868,12 +44076,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "strace",
-    "description": "Trace system calls and signals. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/strace.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "strans",
     "description": "A powerful command-line utility...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/strans.png",
@@ -45018,18 +44220,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "strings",
-    "description": "Strings is another bad static string library, written in C. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/strings.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "strip",
-    "description": "And other data from object files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/strip.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "stroke",
     "description": "The database studio for agents and humans that is fast, minimal, modern...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/stroke.png",
@@ -45058,12 +44248,6 @@
     "description": "A free, open-source mod manager for Slay the Spire 2 — install mods, manage profiles, and share modpacks with one click...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sts2-mod-manager.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "stty",
-    "description": "Change and print terminal line settings. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/stty.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "stud",
@@ -45220,12 +44404,6 @@
     "description": "Simple POS for minimarket...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sultanpos.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "sum",
-    "description": "Checksum and count the blocks in a file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sum.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "summa-wiki",
@@ -45558,18 +44736,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "swapoff",
-    "description": "Enable/disable devices and files for paging and. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/swapoff.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "swapon",
-    "description": "Enable/disable devices and files for paging and. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/swapon.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "swarmclaw",
     "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical Claude Code and LangChain alternative...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/swarmclaw.png",
@@ -45748,12 +44914,6 @@
     "description": "A software for electrophysiology data visualisation and analysis. Multi file format support and plugin based analysis modules for user needs...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/synaptipy.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "sync",
-    "description": "Backup and synchronization service. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sync.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "sync-gui-public",
@@ -46002,12 +45162,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "tac",
-    "description": "Concatenate and print files in reverse. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tac.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "tacho-bridge-app",
     "description": "Flespi application for the authentication with tachograph...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tacho-bridge-app.png",
@@ -46078,12 +45232,6 @@
     "description": "Convert PDF files to TXT, DOCX and JSON...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tahweel-tauri.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "tail",
-    "description": "Output the last part of files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tail.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tailmux",
@@ -46180,12 +45328,6 @@
     "description": "- Local-first agent runtime — a layered AgentService / RunEngine / TurnLoop design over the AI SDK..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tanzo.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "tar",
-    "description": "Utility used to store, backup, and transport files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tar.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "taradino",
@@ -46414,12 +45556,6 @@
     "description": "Terminal Director. One lightweight app, eight features, your whole dev workflow in a single window...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tedi.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "tee",
-    "description": "Read from standard input and write to standard output and. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tee.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tek-steamclient",
@@ -46750,12 +45886,6 @@
     "description": "AI-native knowledge workspace — local-first, offline-capable, beautifully crafted...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tesserin-pro.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "test",
-    "description": "Check file types and compare values. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/test.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "testdisk",
@@ -47274,12 +46404,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "timeout",
-    "description": "Run a command with a time limit. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/timeout.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "timeseries-explorer",
     "description": "Time Series Explorer - browser/desktop app for exploring large time-series datasets (CSV/Parquet/MAT) with DuckDB-WASM...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/timeseries-explorer.png",
@@ -47634,12 +46758,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "top",
-    "description": "Display Linux processes. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/top.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "top-player-linux",
     "description": "Modern player for linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/top-player-linux.png",
@@ -47766,12 +46884,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "touch",
-    "description": "Change file timestamps. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/touch.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "touchhle",
     "description": "Unofficial. High-level emulator for iPhone OS apps...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/touchhle.png",
@@ -47794,18 +46906,6 @@
     "description": "several players build one shared world at the same time. Free, open source, Windows (Steam) and Proton...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tpf2-multiplayer.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "tput",
-    "description": "tput  - initialize a terminal, exercise its capabilities, or query terminfo database. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tput.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "tr",
-    "description": "Translate or delete characters. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tr.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tracedraw",
@@ -48114,18 +47214,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "true",
-    "description": "Do nothing, successfully. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/true.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "truncate",
-    "description": "Shrink or extend the size of a file to the specified. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/truncate.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "tsm-app-linux",
     "description": "Rebuilding the TradeSkillMaster Desktop App as a Linux-native Python application using PySide6. Fully open, maintainable, and visually faithful to the original...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tsm-app-linux.png",
@@ -48136,12 +47224,6 @@
     "description": "A transport stream muxer for remuxing/muxing elementary streams, EVO/VOB/MPG, MKV/MKA, MP4/MOV, TS, M2TS to TS to M2TS. Supported video codecs H.264/AVC, H.265/HEVC, VC-1, MPEG2. Supported audio codecs AAC, AC3 / E-AC3(DD+), DTS/ DTS-HD...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tsmuxer.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "tsort",
-    "description": "Perform a topological sort. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tsort.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tssh",
@@ -48184,12 +47266,6 @@
     "description": "An electron based desktop app for online services...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ttth.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "tty",
-    "description": "Print the file name of the terminal connected to standard. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tty.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tty7",
@@ -48642,12 +47718,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "ul",
-    "description": "Translate underline sequences for terminals. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ul.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "ulbox360",
     "description": "An All-in-One GUI utility for modded Xbox 360 and Xbox Original game backup management on Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ulbox360.png",
@@ -48738,22 +47808,10 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "umount",
-    "description": "Unmount filesystems. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/umount.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "ums",
     "description": "Universal Media Server. A DLNA, UPnP and HTTP(S) Media Server...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ums.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "uname",
-    "description": "Print system information. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/uname.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "unbagrnd",
@@ -48772,12 +47830,6 @@
     "description": "Software for calculating characteristic limits according to ISO 11929 for activity measurements...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/uncertradio.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "uncompress",
-    "description": "Zcat - compress and expand data. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/uncompress.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "uncov",
@@ -48814,12 +47866,6 @@
     "description": "Install Linux/BSD distributions to a partition or USB drive...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unetbootin.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "unexpand",
-    "description": "Convert spaces to tabs. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unexpand.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "unfocus",
@@ -48874,12 +47920,6 @@
     "description": "A app that allows you to directly download/install games from UC...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unioncrax-direct.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "uniq",
-    "description": "Report or omit repeated lines. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/uniq.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "unishellect",
@@ -48954,12 +47994,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "unlink",
-    "description": "Call the unlink function to remove the specified file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unlink.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "unlocr",
     "description": "Convert PDF to markdown using a GUI/CLI for Unlimited-OCR. Uses GGUF models...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unlocr.png",
@@ -49008,12 +48042,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "unshare",
-    "description": "Run program in new namespaces. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unshare.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "unshuffle",
     "description": "Sample Library Organizer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unshuffle.png",
@@ -49050,12 +48078,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "unxz",
-    "description": "Xzcat, lzma, unlzma, lzcat - Compress or decompress .xz. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unxz.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "unyo",
     "description": "Anime streaming and Manga reader desktop app without ads...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unyo.png",
@@ -49066,12 +48088,6 @@
     "description": "🐙 Anime streaming and Manga reader desktop app without ads...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unyo-app.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "unzip",
-    "description": "For extracting and viewing files in .zip archives. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unzip.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "uo-outlands",
@@ -49128,12 +48144,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "uptime",
-    "description": "Tell how long the system has been running.. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/uptime.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "urbanterror",
     "description": "A team-based tactical game shooter based on the Quake 3 Engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/urbanterror.png",
@@ -49174,12 +48184,6 @@
     "description": "The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/usdx.png",
     "arch": ["x86_64","i686"]
-  },
-  {
-    "packageName": "users",
-    "description": "Print the user names of users currently logged in to the. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/users.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "usg",
@@ -49438,12 +48442,6 @@
     "description": "VDE Dataset Viewer..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vde-dataset-viewer.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "vdir",
-    "description": "List directory contents. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vdir.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "vdock",
@@ -50940,12 +49938,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "watch",
-    "description": "Watches for changes in a directory tree and reruns a command in an acme win or just on the terminal. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/watch.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "watched",
     "description": "A media player and a browser for Excellent entertainment...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/watched.png",
@@ -51082,12 +50074,6 @@
     "description": "Wazo desktop client for wazo VOIP server...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wazo-desktop.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "wc",
-    "description": "Print newline, word, and byte counts for each file. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wc.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "we-bluetooth-le-terminal",
@@ -51354,12 +50340,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "wget",
-    "description": "Network utility to retrieve files from the web. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wget.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "whalebird",
     "description": "An Electron based Mastodon client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/whalebird.png",
@@ -51556,18 +50536,6 @@
     "description": "WhiteVPN Desktop — Wails app running the same mihomo engine as WhiteVPN for Android...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/whitevpn-desktop.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "who",
-    "description": "Show who is logged on. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/who.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "whoami",
-    "description": "Print effective user name. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/whoami.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "whu-library-seat",
@@ -52344,12 +51312,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "xargs",
-    "description": "Build and execute command lines from standard input. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xargs.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "xash3d-fwgs",
     "description": "A game engine aimed to provide compatibility with Half-Life Engine and extend it...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xash3d-fwgs.png",
@@ -52824,18 +51786,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "xz",
-    "description": "Library and command line tools for XZ and LZMA compressed files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xz.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "xzcat",
-    "description": "Xzcat, lzma, unlzma, lzcat - Compress or decompress .xz. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xzcat.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "yaak",
     "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yaak.png",
@@ -53050,12 +52000,6 @@
     "description": "QB Stats App...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yellowfruit.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "yes",
-    "description": "Output a string repeatedly until killed. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yes.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "yesplaymusic",
@@ -53518,12 +52462,6 @@
     "description": "An emulation based tool for learning and debugging assembly...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zathuradbg.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "zcat",
-    "description": "Zcat - compress or expand files. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zcat.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zcode",
@@ -54016,12 +52954,6 @@
     "description": "Unofficial. A Super Nintendo emulator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zsnes.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "zsync",
-    "description": "Partial/differential file download client over HTTP. This is part of \"am-utils\" suite...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zsync.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zsync2",
