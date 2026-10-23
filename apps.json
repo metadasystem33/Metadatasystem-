@@ -21342,12 +21342,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "jot-editor",
-    "description": "VS Code, but in your terminal...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jot-editor.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "jottem",
     "description": "A lean, low friction terminal app for managing markdown notes...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jottem.png",
