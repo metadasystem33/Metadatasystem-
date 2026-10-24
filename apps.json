@@ -4092,6 +4092,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bbport",
+    "description": "bbport is a native launcher for the PS4 version of Bloodborne, with new enhancements, features, and patches...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bbport.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "bbt",
     "description": "Simple to use cross-platform BDD driver for black box testing...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bbt.png",
@@ -8913,6 +8919,12 @@
     "packageName": "constrict",
     "description": "Unofficial. Simple video compressor built with GTK4 and Libadwaita...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/constrict.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "container-desktop",
+    "description": "(Podman desktop companion) Podman command line interface...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/container-desktop.png",
     "arch": ["x86_64"]
   },
   {
@@ -36111,12 +36123,6 @@
     "packageName": "podman",
     "description": "Free & open source tool to manage containers, pods, and images...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/podman.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "podman-desktop-companion",
-    "description": "Podman command line interface...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/podman-desktop-companion.png",
     "arch": ["x86_64"]
   },
   {
