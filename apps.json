@@ -27726,12 +27726,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mirrorshard",
-    "description": "A writing editor equipped with an AI chat function and an idea processor. The design is minimalist with an emphasis on immersion. ....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mirrorshard.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "mirushin",
     "description": "Modern Flutter media app for discovery, AniList tracking, Sora-compatible addons, and smooth desktop/mobile playback...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mirushin.png",
@@ -43194,9 +43188,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "solidcraft-perf",
-    "description": "a measured speed, memory and binary-size pass, with the harness that reproduces every number...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/solidcraft-perf.png",
+    "packageName": "solidcraft",
+    "description": "an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/solidcraft.png",
     "arch": ["x86_64","aarch64"]
   },
   {
