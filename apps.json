@@ -49650,6 +49650,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "vibe-typer",
+    "description": "hold a hotkey, speak, release, and clean text is typed at the cursor in any app. Native Wayland and X11. Freemium (free plan, no card), closed source...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vibe-typer.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "vibe3d",
     "description": "A 3D polygon mesh editor written in D...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vibe3d.png",
