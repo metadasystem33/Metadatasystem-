@@ -31188,12 +31188,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "octolyzer",
-    "description": "A fully automatic toolkit for segmentation and feature extracting in optical coherence tomography and scanning laser ophthalmoscopy data...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/octolyzer.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "octopal",
     "description": "A local AI agent platform for people who want broad, real-world automation with a design that makes powerful actions safer and easier to predict...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/octopal.png",
@@ -31672,12 +31666,6 @@
     "description": "GUI wrapper for Oh My Pi (omp) coding agent with project sidebar and embedded TUI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omp-ui.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "ompchamber",
-    "description": "Multi-agent sandbox and execution validation chamber...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ompchamber.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "omperator",
@@ -34524,12 +34512,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "payloader",
-    "description": "A self-hosted knowledge workbench designed for authorized security testing, offensive-defensive exercises, and security research...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/payloader.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "pb-for-desktop",
     "description": "Pushbullet Desktop app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pb-for-desktop.png",
@@ -36249,12 +36231,6 @@
     "packageName": "polar",
     "description": "One-click Bitcoin Lightning networks for local app development...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/polar.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "polaris",
-    "description": "A modern network proxy tool built on the sing-box core and the Tauri framework, focused on simplifying proxy control and connection management...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/polaris.png",
     "arch": ["x86_64"]
   },
   {
