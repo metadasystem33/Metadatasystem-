@@ -23569,7 +23569,7 @@
   },
   {
     "packageName": "kurobayomi",
-    "description": "sources you add, an mpv player, a reader, and AniList and MyAnimeList tracking...",
+    "description": "a library, an mpv-based player, a manga reader, sources you add yourself, and AniList and MyAnimeList tracking...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kurobayomi.png",
     "arch": ["x86_64"]
   },
@@ -27255,6 +27255,12 @@
     "packageName": "mercury",
     "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mercury.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "mercurygram",
+    "description": "Mercurygram Desktop messaging app...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mercurygram.png",
     "arch": ["x86_64"]
   },
   {
