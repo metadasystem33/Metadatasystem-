@@ -50634,12 +50634,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "vulgr",
-    "description": "Run Claude Code, Codex and AGY side by side, keep your sessions organized, and let agents check each other's work...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vulgr.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "vulide",
     "description": "Vulide is a IDE which you can Build, Write your Vulpin Program's easily. And Vulide give's you so much cool tools which you can enjoy with programming!...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vulide.png",
@@ -52038,6 +52032,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "wren-desktop",
+    "description": "Fork of Signal Desktop with a passphrase lock, duress wipe, proxy and Tor with a fail-closed gate, and chat export...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wren-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "wrenyard",
     "description": "Local-first agent orchestration with a unified CLI, runtime, Pet, and Desktop app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wrenyard.png",
@@ -53094,12 +53094,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "youtubego",
-    "description": "YouTubeGO is a high-performance video/audio downloader supporting major platforms like YouTube, Vimeo, Odysee, TikTok, SoundCloud, and Twitter. With MP3/MP4 support, smart queueing, batch tools, scheduling, and a modern  UI, YouTubeGO delivers a fast, secure and seamless downloading experience...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/youtubego.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "youtubesearchfilter",
     "description": "YouTube searches with/without a pre-filter from CLI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/youtubesearchfilter.png",
@@ -53710,12 +53704,6 @@
     "description": "A plain text note-taking assistant..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zk.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "zkas-wallet",
-    "description": "ZKas (private)...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zkas-wallet.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zkool2",
