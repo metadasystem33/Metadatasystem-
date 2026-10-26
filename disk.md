@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **60** programs and **2** items for this category.
+#### Here are listed **59** programs and **2** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,7 +100,6 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/amele.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***amele***](apps/amele.md) | *Unified digital forensics platform bringing disk, RAM, container drift, logical acquisition, and backup analysis together for Windows, Linux, Docker, Android, and iOS.*..[ *read more* ](apps/amele.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amele) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amele) |
 | <img loading="lazy" src="icons/baobab.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***baobab***](apps/baobab.md) | *A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control.*..[ *read more* ](apps/baobab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab) |
 | <img loading="lazy" src="icons/bleachbit.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bleachbit***](apps/bleachbit.md) | *Cleans files to free disk space and to maintain privacy.*..[ *read more* ](apps/bleachbit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bleachbit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bleachbit) |
 | <img loading="lazy" src="icons/blinkdisk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***blinkdisk***](apps/blinkdisk.md) | *💾 The easiest way to backup your files.*..[ *read more* ](apps/blinkdisk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blinkdisk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blinkdisk) |

@@ -1560,12 +1560,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "amele",
-    "description": "Unified digital forensics platform bringing disk, RAM, container drift, logical acquisition, and backup analysis together for Windows, Linux, Docker, Android, and iOS...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/amele.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "amethyst",
     "description": "Nostr client for Android...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/amethyst.png",
@@ -44211,6 +44205,12 @@
     "packageName": "srelens",
     "description": "The Kubernetes control room—built in Rust, ready for engineers and AI agents...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/srelens.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "srs-sysinfo",
+    "description": "System information viewer for Linux, shows hardware, sensors, drive health and more...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/srs-sysinfo.png",
     "arch": ["x86_64"]
   },
   {
