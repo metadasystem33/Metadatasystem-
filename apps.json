@@ -32082,6 +32082,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "open-bc",
+    "description": "OpenBC is an open-source, native file and folder comparison tool. It aims to become a capable, transparent alternative to Welknown [Compare Software], built in the open with a modern Rust core and a Qt desktop interface...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/open-bc.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "open-calc-studio",
     "description": "Open Source Calculatieprogramma voor de bouwsector...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/open-calc-studio.png",
@@ -52023,12 +52029,6 @@
     "packageName": "wrapbox",
     "description": "An Electron wrapper for web pages...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wrapbox.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "wren-desktop",
-    "description": "Fork of Signal Desktop with a passphrase lock, duress wipe, proxy and Tor with a fail-closed gate, and chat export...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wren-desktop.png",
     "arch": ["x86_64"]
   },
   {
