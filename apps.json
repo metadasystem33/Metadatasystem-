@@ -11460,12 +11460,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "disbox",
-    "description": "Disbox adalah aplikasi desktop penyimpanan awan (cloud storage) modern yang memanfaatkan Discord sebagai media penyimpanan tak terbatas. Disbox kini hadir dengan arsitektur Cloud-Native Database-First, di mana seluruh struktur file Anda dikelola secara efisien menggunakan Supabase, memberikan performa yang jauh lebih cepat dan andal...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/disbox.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "disc-xplorer",
     "description": "Disc Xplorer is a free, lightweight, cross-platform app for optical disc image browsing, extracting, analyzing, and so much more...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/disc-xplorer.png",
