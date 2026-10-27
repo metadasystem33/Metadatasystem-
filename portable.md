@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **416** portable programs NOT in AppImage format.
+#### Here are listed **415** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -329,7 +329,6 @@
 | <img loading="lazy" src="icons/mcfly.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mcfly***](apps/mcfly.md) | *Fly through your shell history. Great Scott!*..[ *read more* ](apps/mcfly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mcfly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mcfly) |
 | <img loading="lazy" src="icons/mdcat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mdcat***](apps/mdcat.md) | *Command line, "cat" for markdown.*..[ *read more* ](apps/mdcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdcat) |
 | <img loading="lazy" src="icons/menyoki.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***menyoki***](apps/menyoki.md) | *Screen{shot,cast} and perform ImageOps on the command line.*..[ *read more* ](apps/menyoki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/menyoki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/menyoki) |
-| <img loading="lazy" src="icons/mercury.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mercury***](apps/mercury.md) | *Firefox fork with compiler optimizations and patches from Librewolf.*..[ *read more* ](apps/mercury.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mercury) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mercury) |
 | <img loading="lazy" src="icons/minecraft-launcher.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***minecraft-launcher***](apps/minecraft-launcher.md) | *Game downloader and launcher for Minecraft.*..[ *read more* ](apps/minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minecraft-launcher) |
 | <img loading="lazy" src="icons/mk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mk***](apps/mk.md) | *Interactive Task Runner for Makefile.*..[ *read more* ](apps/mk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mk) |
 | <img loading="lazy" src="icons/mp4grep.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mp4grep***](apps/mp4grep.md) | *CLI for transcribing and searching audio/video files.*..[ *read more* ](apps/mp4grep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep) |
