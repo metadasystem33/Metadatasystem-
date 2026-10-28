@@ -2310,6 +2310,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "appglider",
+    "description": "Install, update and launch AppImages from any GitHub repository. Checksum-verified downloads, one-click roll back, menu entries and update alerts. A single AppImage itself, no setup...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/appglider.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "appherder",
     "description": "A shepherd for your AppImages...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/appherder.png",
@@ -8718,6 +8724,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "comic-commander",
+    "description": "displays a collection of comics (CBZ, CBR, CB7, CBT, PDF) as a grid of cover thumbnails and opens the books in a built-in reader...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/comic-commander.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "comic-reader",
     "description": "Electron based comic reader...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/comic-reader.png",
@@ -10300,6 +10312,12 @@
     "description": "Dashboard is a cross-platform desktop application for convenient management and monitoring of cameras based on OpenIPC firmware...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dashboard.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "dashboards-desktop",
+    "description": "An agent-first, local-first desktop application for AI chat and OpenSearch/Elasticsearch cluster management. Open source, extensible, runs any model...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dashboards-desktop.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "dashi-taskboard",
@@ -11964,6 +11982,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "dotscramble",
+    "description": "🔐 A powerful, modular image privacy protection tool. Redact faces, text, and EXIF metadata from images with AI and batch processing. Supports LTR/RTL (Arabic) interface...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dotscramble.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "dotto",
     "description": "A portable and modern pixelart editor, written from scratch...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dotto.png",
@@ -12384,6 +12408,18 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "dshdesktop",
+    "description": "A modern desktop solution built for the DeepSeek Harness (DSH) plug-in ecosystem. Everything is a \"plug-in\", and the desktop itself is also a \"plug-in\"...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dshdesktop.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "dshnext",
+    "description": "A modern desktop solution built for the DeepSeek Harness (DSH) plug-in ecosystem. Everything is a \"plug-in\", and the desktop itself is also a \"plug-in\"...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dshnext.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "dspi-console",
     "description": "A Linux port of the DSPi Console application, written in Qt with a Rust backend...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dspi-console.png",
@@ -12663,6 +12699,12 @@
     "packageName": "ear2finger",
     "description": "AI-Powered Language Dictation Practise System...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ear2finger.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "eara",
+    "description": "Unofficial GTK4 companion for Nothing, CMF earbuds on Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/eara.png",
     "arch": ["x86_64"]
   },
   {
@@ -27462,6 +27504,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "meshcraft",
+    "description": "Meshcraft is a free, open-source direct mesh modeler. Build with edges and faces, reshape geometry in the viewport, and turn your work into dynamic objects with independent instances. Use it as a hands-on modeler, or create geometry with JavaScript and connect an agent through MCP...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meshcraft.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "meshinspector",
     "description": "Mesh processing application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meshinspector.png",
@@ -32487,6 +32535,12 @@
     "packageName": "openarena",
     "description": "Violent & sexy, multiplayer first person shooter game, ioquake3...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openarena.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "openastrocc",
+    "description": "Native Linux settings app and audio routing tools for Astro A50 Gen 3 headsets...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openastrocc.png",
     "arch": ["x86_64"]
   },
   {
@@ -47826,6 +47880,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "torflix",
+    "description": "browse what the swarm is watching. Stream torrents on the fly...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/torflix.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "torii-osu",
     "description": "Torii client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/torii-osu.png",
@@ -52419,6 +52479,12 @@
     "packageName": "xapkdetector",
     "description": "APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xapkdetector.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "xarch-theme-studio",
+    "description": "Modern Linux icon theme manager powered by GTK4 and Rust. Custom themes, previews and FBI-inspired design...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xarch-theme-studio.png",
     "arch": ["x86_64"]
   },
   {
