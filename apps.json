@@ -15696,12 +15696,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "flyx",
-    "description": "Flyx is a self-hosted app for browsing movies, TV shows, anime, manga, live TV, and sports from third-party sources. Run it on your computer and use it there, or share it with devices on your home network...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/flyx.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "fm-savelens-24",
     "description": "Discover the potential inside your save...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fm-savelens-24.png",
