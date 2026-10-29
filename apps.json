@@ -10632,6 +10632,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ddnet",
+    "description": "An actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ddnet.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "ddt4all",
     "description": "OBD tool. DDT4ALL is a cross-platform diagnostic application for CAN bus vehicle networks. It lets you create your own ECU parameter screens and communicate with ECUs through various OBD-II interfaces, including ELM327, Vlinker FS, VGate iCar Pro, OBDLink SX/EX and ELS27 adapters...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ddt4all.png",
