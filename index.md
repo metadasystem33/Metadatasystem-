@@ -8,7 +8,7 @@
 
 --------
 
-#### *This site lists **8973** unique apps (**8558** Appimage packages and **415** standalone/portable programs), plus **69** items.*
+#### *This site lists **8974** unique apps (**8559** Appimage packages and **415** standalone/portable programs), plus **69** items.*
 
 *From here you can download them, install them, update them (for real), get more information about the sources and their developers... and if you want, you can contribute yourself by adding the missing information, because this site is **open source**!*
 

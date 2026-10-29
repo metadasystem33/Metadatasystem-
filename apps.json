@@ -45138,6 +45138,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "streamhub",
+    "description": "Desktop shell for the official streaming sites, including Netflix, Prime Video, Disney+, YouTube and more...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/streamhub.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "streaming",
     "description": "Multi-platform aggregation live broadcast open source client supports Huya, Bilibili, Douyu.....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/streaming.png",
