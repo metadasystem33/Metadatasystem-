@@ -120,6 +120,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "4nier-patrimonio",
+    "description": "Controle de investimentos B3 + exterior com rentabilidade auditável, 100% local e gratuito...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/4nier-patrimonio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "5ire",
     "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/5ire.png",
@@ -540,6 +546,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "againrom-engine",
+    "description": "Open source Rage of Mages engine implementation...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/againrom-engine.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "agaric",
     "description": "Agaric — local-first, block-based note-taking app inspired by Org-mode and Logseq. Tauri 2 + React 19 + Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agaric.png",
@@ -621,6 +633,12 @@
     "packageName": "agent-loom",
     "description": "Agent skills management and synchronization app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agent-loom.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "agent-office",
+    "description": "a macOS app with a terminal per project, one boss over every project, and several Claude accounts...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agent-office.png",
     "arch": ["x86_64"]
   },
   {
@@ -831,6 +849,12 @@
     "packageName": "agro",
     "description": "Private. Local. Yours. Cross-platform On-device LLM & Agent Client powered by LiteRT-LM & Compose Multiplatform...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agro.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "agt",
+    "description": "it writes the prompts, creates the agents and MCP tools, and runs the work in a group chat...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agt.png",
     "arch": ["x86_64"]
   },
   {
@@ -1182,6 +1206,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "aioffice",
+    "description": "O escritório dos agentes de IA...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aioffice.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "aipixel",
     "description": "AI pixel art - walking pictures, battle frames, special effects frames, background layers, sprite pictures, pixel pictures, frame animations, tile maps, AIPixel, Aseprite, RPG Maker materials, RPGツクールu200c, Pixel Game Maker, Godot, Action Game Maker, Unity, independent games, game development, game production.....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aipixel.png",
@@ -1260,6 +1290,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "aistudio2api",
+    "description": "Regenerate AI Studio Playground and Build into API, AI Studio to OpenAI, Anthropic & Gemini Compatible API....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aistudio2api.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "aiterminal",
     "description": "Terminal + AI assistant, supports one-click viewing of remote files....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aiterminal.png",
@@ -1275,6 +1311,12 @@
     "packageName": "ajour",
     "description": "A World of Warcraft addon manager written in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ajour.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "ak820-linux",
+    "description": "RGB effects, per-key colors, screen GIF upload and clock sync (unofficial)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ak820-linux.png",
     "arch": ["x86_64"]
   },
   {
@@ -1416,6 +1458,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "almojarife",
+    "description": "Open-source sea-trading game on the Iberian and Mediterranean coast, 15th-16th c. Desktop browser game (Windows, Mac, Linux), English and Spanish. Early development, name provisional...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/almojarife.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "aloe",
     "description": "Zen PDF is a lightweight, offline PDF editor built with Tauri and React. It lets you merge, split, reorder, rotate, compress, and export PDFs — locally on your machine with no network calls...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aloe.png",
@@ -1468,6 +1516,12 @@
     "description": "التقوى | تطبيق إسلامي لسطح المكتب يعمل على انظمة التشغيل ويندوز ولينكس...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/altaqwaa-desktop.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "altered-audio-editor",
+    "description": "A free, open-source multitrack audio editor for podcasters and voiceover. It follows the editing workflow that experienced audio editors already know, with its own original design, then adds tools built for podcast production...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/altered-audio-editor.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "altersend",
@@ -1734,6 +1788,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "anelfagent",
+    "description": "A highly customized Agent individual dedicated to you, an independent silicon-based individual. ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/anelfagent.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "angkorgit",
     "description": "Everyday Git, made delightful. A modern, fast, beautiful open-source Git client for macOS, Windows, and Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/angkorgit.png",
@@ -1851,6 +1911,12 @@
     "packageName": "aniship",
     "description": "Allows for easy viewing of anime on PCs and laptops...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aniship.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "anix",
+    "description": "An anime catalogue, tracker, and local library player for Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/anix.png",
     "arch": ["x86_64"]
   },
   {
@@ -2014,6 +2080,12 @@
     "description": "Unofficial. Google Antigravity IDE development environment...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/antigravity-ide.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "antigravity-launcher",
+    "description": "Process-level agent launcher for the Google Antigravity desktop client. It does not take over the entire network, but only inserts agent information into its process tree at the moment Antigravity is started.  Support Windows, macOS, Linux. TUN is not enabled, the system proxy is not changed, and administrator rights are not required. ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/antigravity-launcher.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "antigravity-manager",
@@ -3120,6 +3192,12 @@
     "arch": ["x86_64","i686"]
   },
   {
+    "packageName": "atech-atelier",
+    "description": "Atech AI CAD (formerly Atech Atelier) — describe a part, an agent builds it as a real, measured solid. Powered by FreeCAD...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/atech-atelier.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "atelier",
     "description": "Local-first vector design tool for brand design, moodboards and graphic design — in the browser or as a desktop app. Supports CMYK...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/atelier.png",
@@ -3372,6 +3450,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "auramail",
+    "description": "Modern, fast and customizable email client...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/auramail.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "auris",
     "description": "detects fake lossless files, clipping, dynamic range issues, and spectral content. Tells you what you actually have...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/auris.png",
@@ -3460,6 +3544,12 @@
     "description": "Monorepo workspace for the AutoByteus TypeScript platform...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/autobyteus-workspace.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "autocheckin-engineering",
+    "description": "An engineering project used to simplify the automatic check-in process, help reduce repeated manual operations, improve daily execution efficiency, and focus on stability, ease of use, and maintainability. ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/autocheckin-engineering.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "autoedit2",
@@ -3796,6 +3886,12 @@
     "description": "voice, HD video, screen share up to 4K/120fps, and server-to-server federation. TypeScript, AGPL-3.0...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/backspace.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "backspn",
+    "description": "Free, open source DJ software for macOS, Windows and Linux. Sync and keylock, local stem separation, 74 beat-synced effects and support for any MIDI/HID controller. Written in Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/backspn.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "backtickle",
@@ -4380,6 +4476,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "benchhand",
+    "description": "An open-source desktop workspace for AI teammates, models, tools, and reviewable actions...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/benchhand.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "benchlocal",
     "description": "Test LLMs on real tasks. Compare models side-by-side...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/benchlocal.png",
@@ -4632,6 +4734,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bigmoeonedge",
+    "description": "Run MoE models bigger than your RAM. Frontier-size MoE on a phone, laptop, edge. Lossless, on stock llama.cpp. An adaptive streaming optimizer. Any hardware, any OS, any model, any quantization, behind a local OpenAI-compatible server...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bigmoeonedge.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "bigpemu",
     "description": "Unofficial. High-compatibility, high-performance Atari Jaguar emulator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bigpemu.png",
@@ -4678,6 +4786,12 @@
     "description": "Turn your bilibili into music player...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bilimusic.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "bilisail",
+    "description": "A cross-platform Bilibili third-party client focused on viewing experience...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bilisail.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "biliup-app",
@@ -5223,6 +5337,12 @@
     "packageName": "boo-chat-tw",
     "description": "Twitch, Kick, YouTube e TikTok numa só janela — transparente, no OBS e na live...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/boo-chat-tw.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "book-en",
+    "description": "dual subtitles, word levels, dictionary and review (Tauri v2)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/book-en.png",
     "arch": ["x86_64"]
   },
   {
@@ -6078,6 +6198,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "canifol",
+    "description": "resistors, capacitors, inductors, BMS, transistors, and datasheet search...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/canifol.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "cannonade",
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cannonade.png",
@@ -6165,6 +6291,12 @@
     "packageName": "capsulecraft",
     "description": "CapsuleCraft - zero-database, pure-MIME multimodal workspace and personal knowledge engine. Every note is an RFC 5322 .eml file. Native desktop + Web version too...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/capsulecraft.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "captainfm",
+    "description": "A fast, keyboard-first file manager for Omarchy and Hyprland (Qt 6 QML + Rust)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/captainfm.png",
     "arch": ["x86_64"]
   },
   {
@@ -6426,6 +6558,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "cathode",
+    "description": "A batteries-included YouTube player for the desktop powered by yt-dlp and mpv...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cathode.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "catlauncher",
     "description": "DDA, BN, TLG...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/catlauncher.png",
@@ -6531,6 +6669,12 @@
     "packageName": "cc-switch",
     "description": "ccswitch.io..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cc-switch.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "cc-switch-classic",
+    "description": "CC Switch's V3 classic interface branch (V4 core)/Classic V3-style UI on the cc-switch V4 core....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cc-switch-classic.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -6748,6 +6892,12 @@
     "description": "Display elapsed and remaining time for CasparCG clips...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cgtimer.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "cha-cha",
+    "description": "A MH3U Recomp. Monster Hunter 3 Ultimate running natively on Windows and Linux. Bring your own dump...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cha-cha.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "chaca-scanner",
@@ -7104,6 +7254,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "chiral-ftp",
+    "description": "Ultimate File Manager & FTP Toolbox...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chiral-ftp.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "chiri",
     "description": "Cross-platform CalDAV task management app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chiri.png",
@@ -7212,6 +7368,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "cialai-platform",
+    "description": "Cialai terminal studio for desktop and mobile...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cialai-platform.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "cicada",
     "description": "An old-school bash-like Unix shell written in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cicada.png",
@@ -7269,6 +7431,12 @@
     "packageName": "cinelerra",
     "description": "CINELERRA-GG is a software program NLE, Non-Linear Editor, that provides a way to edit, record, and play audio or video media. It can also be used to transcode media from one format to another or to correct and retouch photos...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cinelerra.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "cinevault",
+    "description": "A fast, free desktop movie & TV library manager. Scan, scrape and rename your library, write Kodi/Jellyfin/Emby NFO and artwork, with Undo for everything. Built with Rust and Tauri...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cinevault.png",
     "arch": ["x86_64"]
   },
   {
@@ -7588,6 +7756,12 @@
     "description": "run Claude Code with multiple accounts and auto-switch when one hits its 5-hour limit. 24/7 auto-loop, parallel chats, live cooldown timers. No API key needed...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/claude-multi.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "claude-ojousama",
+    "description": "can see the screen, actively helps, and remembers your habits · powered by DeepSeek Harness....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/claude-ojousama.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "claude-powerterminal",
@@ -8838,6 +9012,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "comparecraft",
+    "description": "An OpenSource Compare Tool...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/comparecraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "compass",
     "description": "Air Traffic Surveillance DataBase...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/compass.png",
@@ -9408,6 +9588,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "cosmou",
+    "description": "CosmoU – The most beautiful way to play Wii U games on PC.  A free Cemu frontend with Liquid Glass design, automatic setup, multiple view modes (including a Wii U-style home menu), and simple per-game settings. Built for nostalgia and ease of use...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cosmou.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "cotect",
     "description": "watch AI-written changes land live and review every hunk before it ships...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cotect.png",
@@ -9573,6 +9759,12 @@
     "packageName": "crankshaft",
     "description": "A sensible krunker client written in typescript...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/crankshaft.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "crashott-pc",
+    "description": "DLSS/FSR, PC controls, PT-BR, subtitles, mods. Bring your own copy of the game...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/crashott-pc.png",
     "arch": ["x86_64"]
   },
   {
@@ -10095,6 +10287,12 @@
     "packageName": "cutvii",
     "description": "CutVii - Creative editing. Flexible workflow. On-device AI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cutvii.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "cve-intel",
+    "description": "Local security intelligence for CVE triage - 40 data sources and 41 tools, risk scores and an MCP server for AI agents, all in native Rust. Private by default...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cve-intel.png",
     "arch": ["x86_64"]
   },
   {
@@ -10647,6 +10845,12 @@
     "packageName": "de-rclone",
     "description": "De_rclone is an old-school themed Rclone GUI manager for Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/de-rclone.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "de-story",
+    "description": "De Story - Desktop AI Video Studio...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/de-story.png",
     "arch": ["x86_64"]
   },
   {
@@ -11496,6 +11700,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "discophile",
+    "description": "Your music server, played like a record collection. A desktop and web player for Navidrome, Subsonic, Jellyfin and Audiobookshelf, with synced lyrics, an equalizer and a music assistant...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/discophile.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "discord",
     "description": "Unofficial. All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/discord.png",
@@ -11505,6 +11715,12 @@
     "packageName": "discord-bot-client",
     "description": "A patched version of discord, with bot login & Vencord support...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/discord-bot-client.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "discord-nowcast",
+    "description": "Yandex Music, Spotify, SoundCloud, Telegram, browsers...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/discord-nowcast.png",
     "arch": ["x86_64"]
   },
   {
@@ -11638,6 +11854,12 @@
     "description": "Download your DLsite products by one-click!...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dlsite-manager.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "dm",
+    "description": "Dm is a free, open-source desktop download manager...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dm.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "dn-notebook",
@@ -11886,6 +12108,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "doorman",
+    "description": "Doorman — local-first monitor and guard for AI coding agents (desktop app)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/doorman.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "dopamine-preview",
     "description": "The audio player that keeps it simple...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dopamine-preview.png",
@@ -12018,6 +12246,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "dove",
+    "description": "Many coding agents, one native window. Worktrees, diffs, browser control and your phone as a remote...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dove.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "downkyicore",
     "description": "Bili Download Ji (cross-platform version) downkyi, Bilibili website video download tool, supports batch downloads, supports 8K, HDR, Dolby Vision, and provides toolboxes (audio and video extraction, watermark removal, etc.). ....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/downkyicore.png",
@@ -12081,6 +12315,12 @@
     "packageName": "draconv",
     "description": "✨ A cross-platform, modern, simple and fast file converter...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/draconv.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "drag-shift",
+    "description": "Drag, Shift, drop — transform and edit files with the wheel that pops up as you drag. Windows · macOS · Linux....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/drag-shift.png",
     "arch": ["x86_64"]
   },
   {
@@ -12273,6 +12513,12 @@
     "packageName": "drumbuddy",
     "description": "Thesis project, focusing on creating digital drum sheet music real-time...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/drumbuddy.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "ds-bot",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ds-bot.png",
     "arch": ["x86_64"]
   },
   {
@@ -12600,6 +12846,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "dvd-forge",
+    "description": "DVD-Video, AVCHD and Blu-ray authoring studio with interactive menus, navigation simulation and native burning...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dvd-forge.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "dvdisaster",
     "description": "Additional error protection for CD/DVD media...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dvdisaster.png",
@@ -12646,6 +12898,12 @@
     "description": "Dwyco Phoo Chat and Video Calling...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dwyco-phoo.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "dxbi-stremio",
+    "description": "a Netflix-style Stremio app for Windows, macOS, Linux, Android TV, Google TV and Fire TV. Also available as a Stremio Enhanced plugin...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dxbi-stremio.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "dxfplotter",
@@ -13092,6 +13350,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "eidos",
+    "description": "A single-file relational spreadsheet for you and your agent...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/eidos.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "eigen",
     "description": "Eigen improves performance, reliability, and developer experience with faster execution, enhanced compiler caching, improved simulator scaling, CI/CD stability fixes, and automatic cross-platform packaging...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/eigen.png",
@@ -13332,6 +13596,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "elmerstudio",
+    "description": "COMSOL-style model builder (geometry, physics, mesh, study, results) for the Elmer FEM multiphysics solver - Qt/VTK/gmsh, cross-platform...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/elmerstudio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "elphyre-walletshell",
     "description": "Elphyrecoin GUI Wallet...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/elphyre-walletshell.png",
@@ -13536,6 +13806,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "endprotocol",
+    "description": "Endfield'...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/endprotocol.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "english-flashcard-generator",
     "description": "Automatically creating professional Anki flashcards for learning English...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/english-flashcard-generator.png",
@@ -13666,6 +13942,12 @@
     "description": "A lightweight, cross-platform Whole Slide Image (WSI) viewer for digital pathology...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/eov.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "epistulamail",
+    "description": "EpistulaMail is a local-first desktop e-mail client. Your mail stays on your machine, in an encrypted database, with no server in between...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/epistulamail.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "eplee",
@@ -14067,6 +14349,12 @@
     "packageName": "exe",
     "description": "A Elearning XHTML/HTML5 editor...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/exe.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "executioner",
+    "description": "The agentic pentesting environment that lives on your machine. AI agent teams, visual workflows and your own tools, 100% local...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/executioner.png",
     "arch": ["x86_64"]
   },
   {
@@ -14650,6 +14938,12 @@
     "description": "Python port of FT_SCServo_Debug_Qt, with the goal of being cross-platform...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/feetech-servo-tool.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "feilv",
+    "description": "C#, Avalonia LAN file transfer, folder sharing and QR code sharing. Windows, macOS, Linux Native AOT. ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/feilv.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "feishin",
@@ -15768,6 +16062,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "focus-diff",
+    "description": "Review what matters. A browser extension that filters GitHub pull request diffs with custom presets and recalculates files changed and +/− for what you actually review...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/focus-diff.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "focus-flow",
     "description": "A sleek, floating productivity hub that blends hierarchical task management, Pomodoro timing, and data-driven insights with Tauri & React...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/focus-flow.png",
@@ -16006,6 +16306,12 @@
     "description": "Cryptocurrency portfolio management application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/foxfolio.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "foxvpn",
+    "description": "Fox VPN - An independent client built on Mozilla's Firefox VPN infrastructure and Fastly edge servers, with private DNS, real-delay checks and app-based routing...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/foxvpn.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "fpm",
@@ -16938,6 +17244,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "gears3-azura",
+    "description": "github.com/Carolux97/Gears3-Azura...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gears3-azura.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "gearsystem",
     "description": "Unofficial. Sega Master System / Game Gear / SG-1000 emulator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gearsystem.png",
@@ -17055,6 +17367,12 @@
     "packageName": "genact",
     "description": "A nonsense activity generator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/genact.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "genericagent-harness",
+    "description": "Everything-is-a-Plugin harness for GenericAgent (no GA edits)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/genericagent-harness.png",
     "arch": ["x86_64"]
   },
   {
@@ -17394,6 +17712,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "girru",
+    "description": "Open-source AI desktop assistant — run local or remote LLMs with privacy-first design and zero setup required...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/girru.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "git-account-manager",
     "description": "A desktop Git account manager for identity switching across popular code hosting platforms...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/git-account-manager.png",
@@ -17494,6 +17818,12 @@
     "description": "Use the right Git identity in every repository, automatically...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gitcontext.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "gitcraft",
+    "description": "A visual git client, simple to use yet powerful. Light, fast and debloated...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gitcraft.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "gitfourchette",
@@ -17997,6 +18327,12 @@
     "packageName": "godothub",
     "description": "What if Unity Hub and GitHub Desktop had a Baby but its Adopted? Yeah....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/godothub.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "godspeed",
+    "description": "Free, open-source AI tutor for your classes. Claude Code, Codex or any MCP app teaches you step by step, tracks what you know in a knowledge graph, and preps you for exams. No API keys. Mac, Windows, Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/godspeed.png",
     "arch": ["x86_64"]
   },
   {
@@ -18852,6 +19188,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "hackerscad",
+    "description": "parametric solid models written as code in a small scripting language with units, edited with the mouse too. OpenCascade solids, GTK 4 app, command line and MCP server for AI agents...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hackerscad.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "hackintosh-for-all-computers",
     "description": "MacOS Images and OpenCore EFI for all computers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hackintosh-for-all-computers.png",
@@ -19440,6 +19782,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "heroscape-map-editor",
+    "description": "The map editor we all need...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/heroscape-map-editor.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "herta",
     "description": "THE SELF THAT USES THE AGENT...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/herta.png",
@@ -19560,6 +19908,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "hikari",
+    "description": "daemon, CLI and Quickshell UI (legendary, gogdl, nile, steam, umu)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hikari.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "hilbert-editor",
     "description": "Hilbert — an offline scientific IDE for Typst (Unofficial). Live PDF preview, physics/math tooling, live Python/Julia/Wolfram and a desktop app, along with Collab features...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hilbert-editor.png",
@@ -19599,6 +19953,12 @@
     "packageName": "hippoxos",
     "description": "A native LLM operating system, make LLM the operating system interpretation layer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hippoxos.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "hisar",
+    "description": "End-to-end encrypted password, SSH-key and secrets manager for developers...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hisar.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -19683,6 +20043,18 @@
     "packageName": "honeycomb",
     "description": "an offline toolbox based on Qt that does not require a network, is cross-platform, and can serve various special work scenarios...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/honeycomb.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "honeydew",
+    "description": "An open-source, clean-room reimplementation of FL Studio Mobile, rebuilt in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/honeydew.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "hongguo-shortdramabox",
+    "description": "Hongguo Short Play third-party desktop software is unofficial, extremely compact (about 6M), no installation, no login, no ads, cross-platform (supports Windows, MacOS and Linux), and cross-device. Free to use! ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hongguo-shortdramabox.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -20202,6 +20574,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ico-pc",
+    "description": "Windows, Linux, Steam Deck, Android, iPhone via LiveContainer and Apple-silicon Mac (contributed). Contains no game data...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ico-pc.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "icq",
     "description": "Retrogram - ICQ Remastered based on whatsapp/telegram...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/icq.png",
@@ -20502,6 +20880,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "inca",
+    "description": "A free, open-source 3D modeling, animation and rendering application for the desktop, with the workflow and layout of Autodesk Maya. Inca is a native app written in Rust (egui + wgpu)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/inca.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "incarnamind",
     "description": "write and analyse with AI from your own files, check each sentence and figure against them, and export to Word. Meeting notes too. Works with ChatGPT, Claude, Gemini or a local model through Ollama...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/incarnamind.png",
@@ -20619,6 +21003,12 @@
     "packageName": "initialeditor",
     "description": "A web-based tilemap editor for a custom 2D game engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/initialeditor.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "inkboard",
+    "description": "A fast, free, fully offline infinite whiteboard in Rust — draw.io, Excalidraw, Obsidian Canvas, Mermaid interop, MCP server for AI agents. MIT OR Apache-2.0...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/inkboard.png",
     "arch": ["x86_64"]
   },
   {
@@ -21594,6 +21984,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "jotter",
+    "description": "A Markdown notebook with smart editing and optional AI...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jotter.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "jottr",
     "description": "A simple text editor mainly intended for writers, journalists and researchers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jottr.png",
@@ -21700,6 +22096,12 @@
     "description": "🔍 A fast, native desktop GUI for browsing and querying large JSON files — supports jq, JSONPath, JMESPath, and JSON Pointer. Built in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jsonquery-gui.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "jsonui",
+    "description": "Desktop form editor for JSON, JSONC, YAML and TOML. It changes only the values you touch, backs up before every save, and stays on your machine...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jsonui.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "jubeat-chart-viewer",
@@ -22188,6 +22590,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "kcap-cli",
+    "description": "Kurrent Capacitor CLI — collaboration for Agentic Coding era...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kcap-cli.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "kcc",
     "description": "KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kcc.png",
@@ -22320,6 +22728,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "keeperfx-tux-edition",
+    "description": "KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox. Install keeperfx-tux from the AUR, or grab the AppImage or Flatpak. Unofficial, community-maintained, re-synced with upstream....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/keeperfx-tux-edition.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "keepkey-desktop",
     "description": "An all-in-one suite for using your KeepKey hardware wallet...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/keepkey-desktop.png",
@@ -22365,6 +22779,12 @@
     "packageName": "kenote",
     "description": "A minimal, lightning-fast, local-first Raycast-inspired markdown note-taking app for Windows, macOS, and Linux built with Tauri v2, React, TypeScript, and Tailwind CSS...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kenote.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "kensaku",
+    "description": "Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kensaku.png",
     "arch": ["x86_64"]
   },
   {
@@ -22977,6 +23397,12 @@
     "packageName": "klikdesign",
     "description": "free, open-source desktop poster editor with AI. Prompt a poster (or design from your codebase), then refine it on the canvas or by chat. Built with Tauri 2 + React...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/klikdesign.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "klikpaper",
+    "description": "view, organize, compress, convert, annotate, sign and protect PDFs offline. Optional AI chat with your own key and MCP for Claude Code...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/klikpaper.png",
     "arch": ["x86_64"]
   },
   {
@@ -23616,6 +24042,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "kubiki",
+    "description": "Kubiki is a desktop application for inspecting and managing Kubernetes clusters. It combines resource browsing, workload diagnostics, YAML editing, resource topology, Helm management, logs, terminals, and port forwarding in a single workspace...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kubiki.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "kubrick",
     "description": "A logic game based on Rubik's Cube. This is part of \"kdegames\"...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kubrick.png",
@@ -23982,12 +24414,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "latte",
-    "description": "Latte - An Agent Marketing Platform. Open-source, local-first workspace for marketing with your own AI agents...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/latte.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "lattice-term",
     "description": "Cross-platform AI CLI and remote connection desktop workspace｜Run Codex, Claude Code and other local agents alongside SSH, SFTP, RDP, VNC and encrypted remote desktop....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lattice-term.png",
@@ -24126,6 +24552,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "leadstinger",
+    "description": "fire sound cues from a grid or a cue list, and script everything from the command line...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/leadstinger.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "leaflet",
     "description": "POSP official notes application, written in flutter, beautiful, fast and secure...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/leaflet.png",
@@ -24243,6 +24675,12 @@
     "packageName": "legendary-kingdoms",
     "description": "Implementation of Legendary Kingdoms Gamebooks in C++...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/legendary-kingdoms.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "legio",
+    "description": "Efficent Game Launcher with support for Linux and Multi account...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/legio.png",
     "arch": ["x86_64"]
   },
   {
@@ -25362,6 +25800,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "locust",
+    "description": "Claude Code, Codex, Cursor, OpenCode, Copilot, Muse Code, Kilo and more, on the models you pick. Free, MIT, Windows/Mac/Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/locust.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "loenn",
     "description": "A Visual Map Maker and Level Editor for the game Celeste but better than the other one...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/loenn.png",
@@ -25515,6 +25959,12 @@
     "packageName": "lore-forge",
     "description": "The app for writers & worldbuilders...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lore-forge.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "lorenz",
+    "description": "drag a file, tap Shift, Ctrl or Alt, release on a choice. Windows and Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lorenz.png",
     "arch": ["x86_64"]
   },
   {
@@ -26004,6 +26454,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "lynx-share",
+    "description": "Channel Rack, Piano Roll, Playlist, Mixer and .flp import...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lynx-share.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "lyon",
     "description": "Lyon is a native desktop app that brings AI-powered code reviews to your pull request workflow. Connect to GitHub, browse PRs across your repositories, and get intelligent feedback from Claude or Codex — all from a beautiful, fast interface...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lyon.png",
@@ -26098,6 +26554,18 @@
     "description": "Macronyx is a cross-platform macro automation engine with timeline editing, trigger-based execution, and intelligent playback — built for gamers, power users, and automation enthusiasts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/macronyx.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "macsigner",
+    "description": "Ký số điện tử bằng chữ ký số tên macOS...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/macsigner.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "madedit",
+    "description": "MadEdit rewritten in Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/madedit.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "madhav",
@@ -26301,6 +26769,12 @@
     "packageName": "malware-analysis-asphdex",
     "description": "Defensive static malware triage. Inspect suspicious files locally through PE analysis, strings, entropy, YARA, IOC extraction, assembly triage, and explainable reporting — without intentionally executing the sample...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/malware-analysis-asphdex.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "mamba",
+    "description": "Mamba desktop game library and downloader...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mamba.png",
     "arch": ["x86_64"]
   },
   {
@@ -26739,6 +27213,12 @@
     "packageName": "marvel-champions-digital-game",
     "description": "The Card Game, driven by a deterministic rules engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/marvel-champions-digital-game.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "marvel-ultimate-alliance",
+    "description": "Marvel Ultimate Alliance 1, Gold Edition and 2 native PC ports via static recompilation, in one bundle with high frame rates, 4K rendering, ultrawide, HD Text, TRG launcher, and experimental Linux/Steam Deck support...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/marvel-ultimate-alliance.png",
     "arch": ["x86_64"]
   },
   {
@@ -27414,6 +27894,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "merakcode",
+    "description": "Open-source AI coding agent for the terminal and desktop. Built for code, and just as useful for general office work...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/merakcode.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mercek",
     "description": "A local-first desktop IDE for Amazon ECS...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mercek.png",
@@ -27646,6 +28132,12 @@
     "description": "Metrik can centrally view the quota balance and token consumption of multiple agents on the machine. It currently supports mainstream AI services such as ChatGPT, Claude, GLM, and Kimi. ....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/metrik.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "metroidprime2port",
+    "description": "bring your own disc image...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/metroidprime2port.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "metroidprimehuntersrecomp",
@@ -27942,6 +28434,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "mini-classroom",
+    "description": "Vibecoding is not growing? A 10-minute micro-class learning bar every day, supporting learning goal clarification, short classes, active recall and spaced review. There is no end to the sun's strength, and all the merits will end up in the sea. ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mini-classroom.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mini-diary",
     "description": "Simple and secure journal app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mini-diary.png",
@@ -28086,6 +28584,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "mirlo",
+    "description": "Lightweight, open-source desktop client for YouTube Music - a WebView2/Tauri wrapper of the official player with native integrations...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mirlo.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mirroid",
     "description": "This project is under heavy development...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mirroid.png",
@@ -28182,6 +28686,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "miyo",
+    "description": "A high-performance, local-first API client & Postman alternative built with Rust, Tauri 2, and Vue 3. A high-performance, local-first API debugging and testing client (Postman/Insomnia/ApiFox alternative), built on Rust + Tauri 2 + Vue 3. ....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/miyo.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "miyolist-public",
     "description": "A modern, desktop AniList tracker built with Tauri 2 + Preact. Track your anime, manga and light novels with full offline support and automatic sync to your AniList account...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/miyolist-public.png",
@@ -28263,6 +28773,12 @@
     "packageName": "mnema",
     "description": "A free AI interface with memory, local agents and multitasking. One memory for Claude, ChatGPT, Gemini and local models — on your computer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mnema.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "mnemai",
+    "description": "A free AI interface with memory, local agents and multitasking. One memory for Claude, ChatGPT, Gemini and local models — on your computer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mnemai.png",
     "arch": ["x86_64"]
   },
   {
@@ -28614,6 +29130,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "monsters",
+    "description": "an orchestrator and a squad of little monsters on your machine...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/monsters.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "montally",
     "description": "log encounter stats, estimate shiny probability, and optimize your shiny hunting strategy. A simple, intuitive tool for every Pokémon trainer. Works with PokeMMO and Pokemon Revolution Online...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/montally.png",
@@ -28666,6 +29188,12 @@
     "description": "A server-side part of the MoonDeck plugin for the SteamDeck...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/moondeck-buddy.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "moonfold",
+    "description": "Multi-model AI coding workspace with seamless agent switching, shared context, and developer tools...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/moonfold.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "moonglow-toolset",
@@ -28803,6 +29331,12 @@
     "packageName": "morrow",
     "description": "Morrow is an open source, privacy first, offline workspace note taking app, presented as an alternative to Notion, and other apps!...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/morrow.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "morse",
+    "description": "Tell Morse what to add, remove, or change. It writes the code and applies it to the app. Even if it's closed source...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/morse.png",
     "arch": ["x86_64"]
   },
   {
@@ -29208,9 +29742,21 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "multron-download-manager",
+    "description": "High-performance, lightweight download manager with direct disk offset I/O, built with Rust, Wails, and Svelte 5...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/multron-download-manager.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "munify-chase",
     "description": "CHASE conference software, part of MUN-Product Suite MUNify...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/munify-chase.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "muniment",
+    "description": "a free desktop app for your models, tools, and files. Read-only mirror...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/muniment.png",
     "arch": ["x86_64"]
   },
   {
@@ -29436,6 +29982,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "muxy",
+    "description": "Lightweight and Memory efficient terminal multiplexer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/muxy.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "mvplunar",
     "description": "A high-performance audio control suite built with care, love, and perfection for the Linux community...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mvplunar.png",
@@ -29577,6 +30129,12 @@
     "packageName": "myskills",
     "description": "AI Skill Hub — a cross-platform desktop app to discover, dedupe, organize, and sync AI agent skills across Claude Code, Codex, and a shared pool. Ships an MCP server so your agent can run the whole library — install, align, organize, clean up — every write gated and reversible...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/myskills.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "mysort",
+    "description": "A desktop application that watches specified folders, waits for downloads to complete, and organizes files according to user-defined rules...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mysort.png",
     "arch": ["x86_64"]
   },
   {
@@ -29733,6 +30291,12 @@
     "packageName": "naruto-arena",
     "description": "Naruto-based online multiplayer strategy game...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/naruto-arena.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "naruto-rise-recomp",
+    "description": "the native renderer, the default, which draws the game's Direct3D calls with Direct3D 12 or Vulkan and can present at 60 or 120 FPS, and Xenos, the SDK's emulation of the Xbox 360 GPU, as the alternative...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/naruto-rise-recomp.png",
     "arch": ["x86_64"]
   },
   {
@@ -30252,6 +30816,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "neuralese",
+    "description": "NEURALESE — 3D in-browser weight hacking of TinyStories-8M. Edit a tiny LM's weights live and watch it go weird...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neuralese.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "neuro-karaoke-wrapper",
     "description": "Desktop wrapper for Neuro Karaoke website...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neuro-karaoke-wrapper.png",
@@ -30322,6 +30892,12 @@
     "description": "Linux & macOS system optimizer and monitor. Qt6 fork of Stacer with GPU monitoring, dark/light themes, and active maintenance...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nexis.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "nexo",
+    "description": "Terminal rápido e multiplataforma para SSH, túneis, SFTP, RDP, Docker e Kubernetes. Inspirado no..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nexo.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "next-dj",
@@ -30678,6 +31254,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "noactually",
+    "description": "Could AI replace you? No, actually. A private, local-first scorecard that counts the times you caught your AI being wrong. Claude Code, Codex, ChatGPT and more...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/noactually.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "noah-for-tinkerers",
     "description": "Noah -- fixing your computer issues...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/noah-for-tinkerers.png",
@@ -30975,6 +31557,12 @@
     "packageName": "notekit",
     "description": "A GTK3 hierarchical markdown notetaking app with tablet support...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/notekit.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "notelume",
+    "description": "Smooth writing, traceable text.....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/notelume.png",
     "arch": ["x86_64"]
   },
   {
@@ -31314,6 +31902,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "nuzky",
+    "description": "Free, open source video editor for Reels, TikTok and Shorts. A CapCut alternative for Mac, Windows and Linux with local Whisper captions and AI agents over MCP...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nuzky.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "nvim",
     "description": "NeoVim, Vim fork focused on extensibility and usability...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nvim.png",
@@ -31629,6 +32223,12 @@
     "packageName": "odicto",
     "description": "An offline English dictionary app for desktop...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/odicto.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "odin-sphere-leifthrasir-pc",
+    "description": "Odin Sphere Leifthrasir native PC port for Windows, with direct PS4 PKG installation, TRG launcher and modern graphics options...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/odin-sphere-leifthrasir-pc.png",
     "arch": ["x86_64"]
   },
   {
@@ -31974,6 +32574,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "omnidict",
+    "description": "Fast, free offline dictionary for Linux. Download any of 600+ dictionaries (Wiktionary, WordNet, FreeDict, JMdict, CC-CEDICT) in 300+ languages and look up words instantly, with spelling suggestions, wildcard search and quick lookup from any app. Qt 6, C++...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omnidict.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "omniget",
     "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omniget.png",
@@ -32061,6 +32667,12 @@
     "packageName": "omp-desktop",
     "description": "Desktop application for interacting with oh-my-pi...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omp-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "omp-studio",
+    "description": "Desktop app for oh-my-pi (omp) on Windows and macOS. Runs the official omp and shares logins, settings and sessions with the terminal version...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omp-studio.png",
     "arch": ["x86_64"]
   },
   {
@@ -32796,6 +33408,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "opencompare",
+    "description": "directory compare and sync, template relocation, snapshots, code diff, CSV alignment, JSON/YAML semantic compare. Free MIT alternative to Beyond Compare 5 Pro...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencompare.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "openconcho",
     "description": "Fast, privacy-first desktop & web UI for self-hosted Honcho — browse memories, peers, sessions, conclusions, and chat with memory context...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openconcho.png",
@@ -32817,6 +33435,12 @@
     "packageName": "opencrawlengine",
     "description": "OpenCrawlEngine is a local, single-player role-playing game engine driven by a language-model game master. It runs on your machine, talks to an OpenAI-compatible endpoint that you supply a key for, stores characters and campaigns in a local SQLite database, and renders a desktop interface built with Dear ImGui...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencrawlengine.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "opencrown-pc",
+    "description": "launcher, PC renderer, KB/M, PS4-compatible saves and peer-to-peer online co-op...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencrown-pc.png",
     "arch": ["x86_64"]
   },
   {
@@ -33180,6 +33804,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openplancia",
+    "description": "Terminals, files and diagrams share one canvas, and the arrows between them decide what Claude can read and write...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openplancia.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "openplanter",
     "description": "A recursive-language-model investigation agent with a desktop GUI and terminal interface. OpenPlanter ingests heterogeneous datasets — corporate registries, campaign finance records, lobbying disclosures, government contracts, and more — resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openplanter.png",
@@ -33237,6 +33867,12 @@
     "packageName": "openrct2",
     "description": "Re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openrct2.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "openreader",
+    "description": "An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openreader.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -33708,6 +34344,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "orag",
+    "description": "ORAG is an offline, local-first RAG (retrieval-augmented generation) service in..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/orag.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "orange",
     "description": "Cross-platform local file search engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/orange.png",
@@ -33831,6 +34473,12 @@
     "packageName": "org2",
     "description": "Built-in rust harness & 20+ CLIs...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/org2.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "orgamnesia",
+    "description": "Kind of obsidian with emacs flavour...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/orgamnesia.png",
     "arch": ["x86_64"]
   },
   {
@@ -34032,6 +34680,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "otpal",
+    "description": "Private, offline 2FA authenticator for Windows. Import your Google Authenticator accounts once and keep them encrypted on your own PC. No cloud, no account...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/otpal.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ots",
     "description": "Share end-to-end encrypted secrets with others via a one-time URL...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ots.png",
@@ -34065,6 +34719,12 @@
     "packageName": "ourcode",
     "description": "An AI-powered desktop code editor featuring multi-provider LLM support, agentic workflows, and editable chat history...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ourcode.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "ournotes",
+    "description": "collect papers,..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ournotes.png",
     "arch": ["x86_64"]
   },
   {
@@ -34336,6 +34996,12 @@
     "description": "Cross-platform graphics editor in the style of Windows 11 Paint...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/paint-linux.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "paint-rs",
+    "description": "An open source, clean-room reimplementation of Paint.NET for Windows, macOS, Linux, and the web...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/paint-rs.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "paint-software",
@@ -34701,6 +35367,12 @@
     "packageName": "paracord",
     "description": "A self-hostable, open-source Discord alternative with federation and E2E encryption...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/paracord.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "paradev",
+    "description": "Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/paradev.png",
     "arch": ["x86_64"]
   },
   {
@@ -35418,6 +36090,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "persian-typo-desktop",
+    "description": "Open-source (MIT), offline Persian typo fixer for Windows 10/11 and Linux. Corrects Arabic Yeh/Kaf, ZWNJ, spacing, digits & punctuation as you type in desktop apps. Lightweight tray app, custom rules, no account or telemetry. Browser extension also available...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/persian-typo-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "personalclaw",
     "description": "chat, autonomous goal loops, memory, knowledge base, skills, automation, MCP in both directions, and a permission-gated app platform. Local-first, provider-agnostic, MIT...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/personalclaw.png",
@@ -35640,6 +36318,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "phpblitz",
+    "description": "A fast, open source PHP IDE, built with Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/phpblitz.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "phreshplayer",
     "description": "Electron based media player app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/phreshplayer.png",
@@ -35734,6 +36418,12 @@
     "description": "Inofficial daily development builds for MusicBrainz Picard...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/picard-daily.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "picasso-suite",
+    "description": "Cut, Edit and Deliver pages, all-format support via FFmpeg, H.264/H.265 export and .drp project import. Windows, Linux and macOS...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/picasso-suite.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "picgo",
@@ -36462,6 +37152,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pmca-re-reloaded",
+    "description": "A desktop toolkit for Sony cameras over USB - camera info, apps, firmware and settings. A Rust rewrite of PMCA-RE (Sony-PMCA-RE) for Windows, macOS and Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pmca-re-reloaded.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "pmptr",
     "description": "A minimal ad-free virtual teleprompter that lives as a transparent, always-on-top, click-through overlay over whatever you do on your screen...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pmptr.png",
@@ -37164,6 +37860,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "preen",
+    "description": "install/remove apps, deep-clean with size preview, manage systemd services, simulate before you act...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/preen.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "preflight",
     "description": "preFlight natively imports PrusaSlicer and OrcaSlicer profiles so you can be up and running in minutes. To put it mildly, this is no ordinary fork...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/preflight.png",
@@ -37251,6 +37953,12 @@
     "packageName": "printventory",
     "description": "The ultimate tool for managing your 3D printing collection with ease. Sort, tag, and track your models in one place...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printventory.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "printview3d",
+    "description": "Fast cross-platform viewer for STL, 3MF, G-code and FreeCAD files, with one-click open in your slicer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/printview3d.png",
     "arch": ["x86_64"]
   },
   {
@@ -37350,6 +38058,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "pro-wave",
+    "description": "ProWave, a music production Daw in the style of Logic Pro, written in pure Rust with egui. Tracks, MIDI and audio regions, piano roll, mixer and built-in synth. Builds for Windows, macOS and Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pro-wave.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "probe-desktop",
     "description": "The next generation OONI Probe desktop app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/probe-desktop.png",
@@ -37396,6 +38110,12 @@
     "description": "Pure music player, supports local/Navidrome. ....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/project-carminium.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "project-friday",
+    "description": "Static recompilation of Landstalker (Sega Mega Drive) to native code for PC and Steam Deck, built with..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/project-friday.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "project-indexer",
@@ -37527,6 +38247,12 @@
     "packageName": "prosper",
     "description": "A user-space PlayStation 5 to PC compatibility layer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/prosper.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "prosvet-antizapret-app",
+    "description": "само подбирает рабочую стратегию и следит за ней...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/prosvet-antizapret-app.png",
     "arch": ["x86_64"]
   },
   {
@@ -38304,6 +39030,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "qriff",
+    "description": "A small desktop companion for QR codes on your screen and in the real world...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qriff.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "qrscan",
     "description": "Scan a QR code in the terminal using the system camera or an image...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qrscan.png",
@@ -38484,6 +39216,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "quarry",
+    "description": "Quarry is a fast, lightweight desktop database client written in Rust. It delivers the core developer workflow of DataGrip—writing queries, navigating schemas, editing rows with atomic review, and importing/exporting data—without IDE bloat, slow startup, or heavy background resource consumption...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/quarry.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "quarto-cli",
     "description": "Scientific and technical publishing system built on Pandoc...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/quarto-cli.png",
@@ -38541,6 +39279,12 @@
     "packageName": "queryark",
     "description": "Lightweight database IDE for 17 engines — SQL, NoSQL, graph, key-value, and analytics. One app for all your databases...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/queryark.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "querybird",
+    "description": "Free, open-source database client for PostgreSQL, MySQL and SQLite. A fast native desktop app built with Rust and Tauri, with optional AI-assisted SQL...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/querybird.png",
     "arch": ["x86_64"]
   },
   {
@@ -38700,6 +39444,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "quotamate",
+    "description": "Cross-platform Codex quota monitor...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/quotamate.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "quotio-desktop",
     "description": "Cross-platform AI account quota manager. A local CLIProxyAPI agent manages quotas and calls across multiple AI accounts, with polling, monitoring, scheduling and multiple Codex instances...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/quotio-desktop.png",
@@ -38718,9 +39468,21 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "quran-desktop",
+    "description": "read the exact Madani Mushaf, follow the recitation word by word, 100+ reciters, 100+ translations, tajweed, offline. No ads...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/quran-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "quriodb",
     "description": "Open-source database management and analytics desktop app for SQL, NoSQL, Redis, and local data...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/quriodb.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "qurioso",
+    "description": "Interactive Multiplayer & Video Quiz Studio...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qurioso.png",
     "arch": ["x86_64"]
   },
   {
@@ -39438,6 +40200,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "redcomp-dream",
+    "description": "Native recompilation of Uniracers (USA) with widescreen and quality-of-life features...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/redcomp-dream.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "redeclipse",
     "description": "A great first person 3D arena shooter with online support, game...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/redeclipse.png",
@@ -39483,6 +40251,12 @@
     "packageName": "reemoat",
     "description": "run coding agents on your own machines and supervise them from anywhere, end-to-end encrypted...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/reemoat.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "reetched",
+    "description": "Open-source 3D texture painter for Windows, macOS and Linux. Paint, bake mesh maps and texture models with layers, smart materials and a PBR viewport, and open your Substance Painter projects...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/reetched.png",
     "arch": ["x86_64"]
   },
   {
@@ -39663,6 +40437,12 @@
     "packageName": "remoteai",
     "description": "An AI programming workbench based on Codex CLI that supports graphical dialogue, multi-account management, and desktop, web, and mobile collaboration. ....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/remoteai.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "remotedesktop",
+    "description": "A fast, lightweight app to manage your Remote Connections...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/remotedesktop.png",
     "arch": ["x86_64"]
   },
   {
@@ -40176,6 +40956,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "rigby2d",
+    "description": "rigby2d.com/docs...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rigby2d.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "rigelengine",
     "description": "Unofficial. Modern re-implementation of DOS game Duke Nukem II...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rigelengine.png",
@@ -40410,6 +41196,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "robos",
+    "description": "RobOS — Knowledge Graph-First Developer OS & Application Suite...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/robos.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "robota",
     "description": "TypeScript framework for building AI agents — multi-provider (Anthropic, OpenAI, Google), tool calling, permissions, hooks, streaming, and CLI coding assistant...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/robota.png",
@@ -40629,6 +41421,12 @@
     "packageName": "ros-navigation-learning-platform",
     "description": "A visual learning platform for global planning, local planning and differential robots for ROS/Nav2 beginners....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ros-navigation-learning-platform.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "roseline",
+    "description": "Run the macOS builds of Roblox with ease, using Rosemary...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/roseline.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -40894,6 +41692,12 @@
     "description": "SQLRite - Simple embedded database modeled off SQLite in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rust-sqlite.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "rustab",
+    "description": "View, edit, validate, and back up your fstab entries - atomic writes, automatic backups, and a mandatory diff review before anything touches your real /etc/fstab...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rustab.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "rustatio",
@@ -41362,6 +42166,12 @@
     "description": "User-mode driver and GTK3 based GUI for Steam Controller...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sc-controller.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "sc-hammer",
+    "description": "Move, swap and pair your Steam Controller slots (SteamOS, Linux AppImage)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sc-hammer.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "sc4pac-gui",
@@ -42090,6 +42900,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "seshboard",
+    "description": "Run and track all your Claude Code sessions, across several Claude accounts, in one window. Mac, Windows and Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/seshboard.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "session-craft",
     "description": "Free Community Edition music practice app and stem separation workstation for private local songs, loops, speed, pitch, and six-stem rehearsal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/session-craft.png",
@@ -42108,6 +42924,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "sessionpipe",
+    "description": "The local GUI for sessionpipe. One process shows every coding-agent session on your machines as it happens, open from any device on your network. No server, no database, no account...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sessionpipe.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "sessionview",
     "description": "Claude Code, Codex, Gemini, OpenCode, Cursor and kimi...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sessionview.png",
@@ -42117,6 +42939,12 @@
     "packageName": "setcolors",
     "description": "Another way to set colors in Linux shells...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/setcolors.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "seuszjz",
+    "description": "SEU quality lecture seat selection assistant....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/seuszjz.png",
     "arch": ["x86_64"]
   },
   {
@@ -42282,6 +43110,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "sheetbro",
+    "description": "Sheetbro - spreadsheet alternative...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sheetbro.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "sheetopia",
     "description": "A cross-platform local-first sheet music app with optional self-hosted sync...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sheetopia.png",
@@ -42423,6 +43257,12 @@
     "packageName": "shockwave",
     "description": "A local, file-based notes app where your work stays as plain .md files in a folder you own. It ships with a real coding agent baked right in (no separate Claude Code), and syncs through your own GitHub repo for free...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/shockwave.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "shoggoth",
+    "description": "Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/shoggoth.png",
     "arch": ["x86_64"]
   },
   {
@@ -42658,6 +43498,12 @@
     "description": "View runs from your Garmin brand watch..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/siliconsneaker.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "sillage",
+    "description": "Self-hosted, multi-CLI platform for agentic development (Claude Code, Codex)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sillage.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "sillytavern-launcher",
@@ -43212,6 +44058,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "skyrecomp",
+    "description": "Skyward Sword for PC...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/skyrecomp.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "skytwin",
     "description": "A digital twin that learns what you'd want — and does it. Delegated judgment with safety constraints, explanations, and progressive trust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/skytwin.png",
@@ -43590,6 +44442,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "snowhush",
+    "description": "Soft snow on your Mac's desktop. It settles on your windows and parts under your cursor...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/snowhush.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "soa-launcher-qt",
     "description": "Story Of Alicia Launcher for Linux and macOS...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/soa-launcher-qt.png",
@@ -43800,6 +44658,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "sonix",
+    "description": "channel rack, piano roll, mixer with buses, VST3/CLAP hosting, offline export, and an AI assistant that writes a beat from a sentence. One binary, glibc 2.28+, .deb/.rpm/AppImage...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sonix.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "sonixd",
     "description": "A full-featured Subsonic/Jellyfin compatible desktop music player...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sonixd.png",
@@ -43978,6 +44842,12 @@
     "description": "OSC(Open-sound-Control) from 3DCONNEXION Spacemouse Compact...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spacemouse-osc.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "spacepreview",
+    "description": "A local-first file previewer. Select a file, press Space, and see what is inside...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spacepreview.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "spacescan",
@@ -44190,6 +45060,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "spiresofazeroth",
+    "description": "git clone, then node tools/spires/dev-server.mjs (see README)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spiresofazeroth.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "spiritstream",
     "description": "Deplatform & own your brand...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spiritstream.png",
@@ -44361,6 +45237,12 @@
     "packageName": "sptlrx",
     "description": "Synchronized lyrics in your terminal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sptlrx.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "spu-iso-tool",
+    "description": "Decrypt and encrypt lv0ldr/metldr c tool...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spu-iso-tool.png",
     "arch": ["x86_64"]
   },
   {
@@ -44754,6 +45636,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "stealth-mission-89",
+    "description": "A spiritual successor to old DOS stealth fighter simulations, with dynamic realtime campaign, multiplayer and VR support...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/stealth-mission-89.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "steam",
     "description": "Unofficial. The ultimate destination for playing, discussing, and creating games...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/steam.png",
@@ -45057,6 +45945,12 @@
     "packageName": "storytel-player",
     "description": "Unoffical Storytel Player for Desktop — a cross-platform desktop application for playing Storytel audiobooks, built with TypeScript, React, Fastify, and Electron...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/storytel-player.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "strahlender-xnu",
+    "description": "Static recompilation of the ARM64 code of Pokémon Brilliant Diamond (BDSP) for macOS and iPadOS, with a Vulkan path for Linux (work in progress)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/strahlender-xnu.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -46284,6 +47178,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "taksim",
+    "description": "A live canvas for coding agents, on the subscriptions you already have...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/taksim.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "talearchitect",
     "description": "TaleArchitect é uma ferramenta de construção de mundos (worldbuilding) focada em conexões e cronologia. Desenvolvida para escritores, mestres de RPG e criadores de conteúdo que precisam organizar universos complexos de forma visual e intuitiva...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/talearchitect.png",
@@ -46312,6 +47212,12 @@
     "description": "Native chat client for Urbit — Android, Linux, macOS, Windows...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/talon.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "talvio",
+    "description": "dictation into any app, a voice assistant that answers out loud and gets things done, meeting notes, and a phone app to control your PC. Local-first, open source...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/talvio.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tama-desktop",
@@ -46533,6 +47439,12 @@
     "packageName": "tdrive",
     "description": "Go + Wails desktop app I built as my first Go project. It uses a private Telegram channel like a “cloud drive” so you can upload,   download, and organize files into folders (for learning/education only)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tdrive.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "teacoder",
+    "description": "Desktop management client for AI programming CLI tools—a unified manager for Claude Code, Codex CLI, Gemini CLI, OpenCode, Antigravity...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/teacoder.png",
     "arch": ["x86_64"]
   },
   {
@@ -46842,6 +47754,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "termoso",
+    "description": "Termoso — free, open-source, zero-knowledge SSH/SFTP client & sync server. Software that reports to you, not on you...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/termoso.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "termote",
     "description": "A Rust-based lightweight Agentic Development Environment (ADE) that boosts your productivity with a persistent multi-pane workspace, built-in tools, and one-click remote access so you can keep working from your phone, anywhere...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/termote.png",
@@ -46875,6 +47793,12 @@
     "packageName": "termy",
     "description": "A fast, native terminal for macOS, Linux, and Windows...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/termy.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "ternima",
+    "description": "Serial, RTT, SWO and Zephyr terminal for embedded developers, with J-Link, ST-Link and CMSIS-DAP probes. The same app on Windows, Linux and macOS...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ternima.png",
     "arch": ["x86_64"]
   },
   {
@@ -47058,6 +47982,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "thai-font-kit",
+    "description": "Thai Fonts for ArtCraft...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/thai-font-kit.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "the-fretboard-game",
     "description": "A game to learn the fretboard by PLAYING with the guitar...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/the-fretboard-game.png",
@@ -47109,6 +48039,12 @@
     "packageName": "theframe",
     "description": "Animation tool...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/theframe.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "thegodbbslauncher",
+    "description": "A cross-platform (Windows, macOS, Linux) Minecraft Java version launcher, the interface pays tribute to the MCBBS (Minecraft Chinese Forum) of the year. ...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/thegodbbslauncher.png",
     "arch": ["x86_64"]
   },
   {
@@ -47244,6 +48180,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "thought-desk",
+    "description": "A fast, local-first Notion alternative built with Rust + Tauri. Block editor, nested pages, full-text search, black-and-white UI, ~115 MB RAM...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/thought-desk.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "thoughtsplus",
     "description": "The high-velocity, shortcut-first brain dump for Windows. ThoughtsPlus eliminates the friction of bloated productivity tools, allowing power users to capture ideas, sketch, and track progress without ever leaving their workflow. No cloud, no telemetry, just pure focus...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/thoughtsplus.png",
@@ -47376,6 +48318,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tidewater",
+    "description": "Battle.net Edition engine (with Beyond the Dark Portal) that runs on your own copy of the game. Campaigns, custom games and LAN play on Windows, macOS, Linux, iOS and Android. No game data included...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tidewater.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tidybit",
     "description": "TidyBit is a simple handy tool that can organize messy collection of files and move them to a chosen folder...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tidybit.png",
@@ -47398,6 +48346,12 @@
     "description": "Tiger Studio — the free desktop printer + filament manager for the TigerTag open NFC standard. Windows, macOS, Linux (MIT)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tigertag-studio-manager.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tiiny-studio",
+    "description": "desktop app (Windows, macOS, Linux) or Docker. Images, OCR & documents, chat with tools, voice, music, 3D...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tiiny-studio.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tikkocampus",
@@ -47433,6 +48387,12 @@
     "packageName": "tilegrabber",
     "description": "Tool for Batch Downloading and Publishing Map Tiles..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tilegrabber.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tilesmith",
+    "description": "Pre production software for LED walls. Engineering specs, cable labels, pixel maps and test patterns with some fun animation for vidiots. Yes it is vibe coded. ↓↓↓↓ download link ↓↓↓↓...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tilesmith.png",
     "arch": ["x86_64"]
   },
   {
@@ -47526,6 +48486,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tits",
+    "description": "TITS - Test Intelligence & Tutoring System, to help you in hard times...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tits.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tixati",
     "description": "A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tixati.png",
@@ -47550,6 +48516,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "tlkrecomp",
+    "description": "TLKRecomp is a static recompilation of The Lion King (SNES), built with snesrecomp...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tlkrecomp.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tlock",
     "description": "Two-Factor Authentication Tokens Manager in Terminal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tlock.png",
@@ -47572,6 +48544,12 @@
     "description": "A simple CLI tool for monitoring/reporting CPU temperatures...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tmon.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tmop",
+    "description": "a skinnable Windows system monitor in Rust (egui), with every feature free...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tmop.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "tmplayer",
@@ -47823,6 +48801,12 @@
     "packageName": "toontown-multitool",
     "description": "Multitoon controller for Toontown Rewritten and Corporate Clash...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/toontown-multitool.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tootawersrecomp",
+    "description": "The Two Towers (Xbox, USA, 2002), made by static recompilation. It needs your own copy of the game, either the disc image (ISO) or an extracted folder. No game data is included...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tootawersrecomp.png",
     "arch": ["x86_64"]
   },
   {
@@ -48087,6 +49071,12 @@
     "packageName": "transgentic",
     "description": "Local-First AI Orchestration Workspace, Completion Provider & MCP Gateway. Connect AI clients to local LLMs, native CLI services, APIs, and user-authorized web workflows, with Recall to help carry planning context into implementation...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/transgentic.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "transit",
+    "description": "an open-source DAW in Rust with native ASIO (no SDK), measured latency, and plug-ins that cannot freeze the window. Cubase bones, Ableton manners...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/transit.png",
     "arch": ["x86_64"]
   },
   {
@@ -48570,6 +49560,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tuxrgb",
+    "description": "Tout l'éclairage RGB du PC, la ventilation et les afficheurs, dans une seule application pour Linux (Wayland) et Windows. OpenRGB intégré, rien d'autre à installer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tuxrgb.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tuxtalk",
     "description": "Free push-to-talk voice dictation for Linux. Hold a key, talk, let go. Works on Wayland and X11, runs offline with Parakeet or Whisper, and fixes \"no wait\" slips with an optional local AI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tuxtalk.png",
@@ -48627,6 +49623,12 @@
     "packageName": "twindesk",
     "description": "Use two computers as one desk. Share screens, mouse and keyboard, clipboard, files, sound, notifications, terminals and apps...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/twindesk.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "twinsanityevolved",
+    "description": "PC Port of Crash Twinsanity...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/twinsanityevolved.png",
     "arch": ["x86_64"]
   },
   {
@@ -48808,6 +49810,12 @@
     "description": "Cross-Platform Keystroke Launcher...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ueli.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "ufc3mons",
+    "description": "UFC3MONS is an experimental native Xbox 360 port of UFC Undisputed 3 built with RexGlue. The game boots and runs smoothly in menus, and a shader translation fix restores in-game shadows. Exhibition fights run, but currently suffer from severe slow motion; performance optimization is the next focus...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ufc3mons.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "uhk.agent",
@@ -49174,6 +50182,12 @@
     "description": "Paste a Spotify / Deezer / Apple Music / YouTube / SoundCloud track, album or playlist URL — or search every catalog at once — and get tagged mp3 files. No accounts, no API keys, nothing paid...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unstream.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "unsub",
+    "description": "Cancel your subscription. Keep your music. A 2005-style music player that syncs your iPod and brings your Spotify playlists home...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unsub.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "unterm",
@@ -49728,6 +50742,12 @@
     "arch": ["x86_64","aarch64","i686"]
   },
   {
+    "packageName": "venture",
+    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/venture.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "venturi",
     "description": "Linux-first, performance oriented minimal video editor...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/venturi.png",
@@ -49851,6 +50871,12 @@
     "packageName": "veyndesk",
     "description": "connect with an ID and password, direct P2P with automatic relay. Built in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/veyndesk.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "vfinder",
+    "description": "VFinder, a file explorer for former macOS users...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vfinder.png",
     "arch": ["x86_64"]
   },
   {
@@ -50376,6 +51402,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "visualdynamics",
+    "description": "geometry, test data, mode shapes, reports — with a highly visual desktop application...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/visualdynamics.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "visualfamilytree",
     "description": "Create a family tree with information and pictures...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/visualfamilytree.png",
@@ -50628,6 +51660,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "voiceolator",
+    "description": "music and sound effects are removed locally, and your game audio stays untouched. Windows & Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/voiceolator.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "voicestudio",
     "description": "The open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/voicestudio.png",
@@ -50692,6 +51730,12 @@
     "description": "Lightning-fast keyboard launcher for Windows/macOS/Linux. Built with Tauri 2 + React + Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/volt.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "voltip",
+    "description": "Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phone works on its own or pairs end-to-end encrypted as the computer's microphone and keyboard...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/voltip.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "voltius",
@@ -50955,6 +51999,18 @@
     "packageName": "w2vgrep",
     "description": "semantic-grep for words with similar meaning to the query...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/w2vgrep.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wabcut",
+    "description": "Free, open-source video editor for gaming videos, video essays and documentaries. Premiere Pro shortcuts and edit rules, GPU playback, local AI captions and smart search. Windows · C++23 · Qt 6 · FFmpeg....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wabcut.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "waddamburo",
+    "description": "Waddamburo is an independent, open-source Taiko no Tatsujin simulator...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/waddamburo.png",
     "arch": ["x86_64"]
   },
   {
@@ -51696,6 +52752,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "whopping-recompilation-collection",
+    "description": "Native PC ports of Sneak King, Big Bumpin' and PocketBike Racer (Xbox 360) via static recompilation, in one launcher...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/whopping-recompilation-collection.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "whu-library-seat",
     "description": "Wuhan University Library Assistant, for Jinan University...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/whu-library-seat.png",
@@ -51939,6 +53001,12 @@
     "packageName": "wirely",
     "description": "glowing LEDs, spinning motors, 555 timers, logic chips, op-amps and a live graph. For the workplace, the classroom and the workbench...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wirely.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wirely-app",
+    "description": "glowing LEDs, spinning motors, 555 timers, logic chips, op-amps and a live graph. For the workplace, the classroom and the workbench...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wirely-app.png",
     "arch": ["x86_64"]
   },
   {
@@ -52338,6 +53406,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "write",
+    "description": "StoryBook AI — local-first prose tool. The Story Bible holds truth. The model drafts. You decide...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/write.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "writeflow",
     "description": "WriteFlow - Free and open source Typora style WYSIWYG Markdown editor....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/writeflow.png",
@@ -52692,6 +53766,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "xjaus",
+    "description": "Xbox Cloud Gaming and Remote Play desktop client for Linux and Windows...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xjaus.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "xknx-editor",
     "description": "XKNX Editor to program and mange KNX devices...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xknx-editor.png",
@@ -53028,6 +54108,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "yakucraft",
+    "description": "Minecraft Mod translation app...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yakucraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "yakuda-connect",
     "description": "A sleek and intuitive GUI for WiVRn — Linux VR streaming made easy...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yakuda-connect.png",
@@ -53229,6 +54315,12 @@
     "packageName": "yggtray",
     "description": "A system tray application for managing Yggdrasil service...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yggtray.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "yh-launcher",
+    "description": "YazılımHub topluluğunun Windows ve Linux için eklentilerle genişleyen uygulama başlatıcısı (Alt+Space) — discord.gg/yazilimhub...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yh-launcher.png",
     "arch": ["x86_64"]
   },
   {
