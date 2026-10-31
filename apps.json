@@ -25476,6 +25476,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "livefaceswap",
+    "description": "Realtime AI face swap, virtual try-on and restyle (official AppImage) / https://livefaceswap.ai..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/livefaceswap.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "liveme-pro-tools",
     "description": "Browse, search and manage accounts, replays and more...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/liveme-pro-tools.png",
