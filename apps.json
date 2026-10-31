@@ -5202,6 +5202,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "blue-dove",
+    "description": "A fast music player with an album browser and waveform seekbar...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/blue-dove.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "blue-nebula",
     "description": "A fast-paced shooter with a unique parkour system. It is a fork of Red Eclipse and is free software...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/blue-nebula.png",
@@ -55335,6 +55341,12 @@
     "packageName": "zynkbot",
     "description": "A local-first AI that maps how your thinking evolves...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zynkbot.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zyrngis",
+    "description": "ZYRN Workstation, offline topographic maps, 3D terrain and team tools for the field...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zyrngis.png",
     "arch": ["x86_64"]
   }
 ]

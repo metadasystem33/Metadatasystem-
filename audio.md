@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **518** programs and **1** items for this category.
+#### Here are listed **519** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -167,6 +167,7 @@
 | <img loading="lazy" src="icons/blob-dl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***blob-dl***](apps/blob-dl.md) | *Blob-dl is a yt-dlp CLI interface used to download video and audio files from YouTube.*..[ *read more* ](apps/blob-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blob-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blob-dl) |
 | <img loading="lazy" src="icons/bloomee.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bloomee***](apps/bloomee.md) | *Music app designed to bring you ad-free tunes from various sources.*..[ *read more* ](apps/bloomee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bloomee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bloomee) |
 | <img loading="lazy" src="icons/blue.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***blue***](apps/blue.md) | *Blue - An Integrated Music Environment.*..[ *read more* ](apps/blue.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blue) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blue) |
+| <img loading="lazy" src="icons/blue-dove.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***blue-dove***](apps/blue-dove.md) | *A fast music player with an album browser and waveform seekbar.*..[ *read more* ](apps/blue-dove.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/blue-dove) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/blue-dove) |
 | <img loading="lazy" src="icons/bodacious.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bodacious***](apps/bodacious.md) | *A bodacious music player.*..[ *read more* ](apps/bodacious.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bodacious) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bodacious) |
 | <img loading="lazy" src="icons/bulka.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bulka***](apps/bulka.md) | *Live-coding music platform with AI agent — browser-based Strudel fork with Telegram bot and Russian community.*..[ *read more* ](apps/bulka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bulka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bulka) |
 | <img loading="lazy" src="icons/cadmus.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cadmus***](apps/cadmus.md) | *Pulse Audio real-time noise suppression plugin.*..[ *read more* ](apps/cadmus.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cadmus) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cadmus) |
