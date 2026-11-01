@@ -37332,12 +37332,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "pojia-gaoshou",
-    "description": "https://shop.coolhs.com/categories/catfk-cat-10696...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pojia-gaoshou.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "poke-idle-launcher",
     "description": "ate 4 contas, coleta pela rede, painel de metricas, alertas e overlay. Windows e Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/poke-idle-launcher.png",
@@ -44025,6 +44019,12 @@
     "packageName": "skinstrackr",
     "description": "A desktop application designed to help CS2 players manage their in-game inventory...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/skinstrackr.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "skippy-xd",
+    "description": "A lightweight, window-manager agnostic window selector for X11 with Expose/Exposé and more...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/skippy-xd.png",
     "arch": ["x86_64"]
   },
   {
@@ -51495,6 +51495,12 @@
     "packageName": "vivi-music-de",
     "description": "Vivi Music DE (PC Edition) is a sleek, cross-platform YouTube Music client built on Material 3 design principles. As the official desktop port of the acclaimed Vivi Music Android app, it delivers a native audio streaming experience across platforms...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vivi-music-de.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "vivifylive",
+    "description": "Realtime AI face swap, virtual try-on and restyle (official AppImage) / https://vivify.video..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vivifylive.png",
     "arch": ["x86_64"]
   },
   {
