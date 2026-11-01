@@ -52914,6 +52914,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "windwaker-hd-editor",
+    "description": "The Wind Waker HD save game editor...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/windwaker-hd-editor.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "wine",
     "description": "Unofficial. Run Windows programs, select a version from mmtrt/WINE_AppImage...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wine.png",
