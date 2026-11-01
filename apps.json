@@ -49182,6 +49182,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "treesheets",
+    "description": "Hierarchical spreadsheet; a free-form data organizer that replaces outliners, mind maps and spreadsheets...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/treesheets.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "trelby",
     "description": "Unofficial. Trelby is simple, fast and elegantly laid out to make screenwriting simple...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/trelby.png",
