@@ -48510,6 +48510,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "texturecraft",
+    "description": "An open-source, 3D texture painting workflow written from scratch in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/texturecraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "texturelab",
     "description": "Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/texturelab.png",
