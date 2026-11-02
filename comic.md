@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **77** programs for this category.
+#### Here are listed **78** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,6 +100,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/aikatsu.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aikatsu***](apps/aikatsu.md) | *Fast and free light weight native app for watching anime with indonesian subs without ads or a browser.*..[ *read more* ](apps/aikatsu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aikatsu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aikatsu) |
 | <img loading="lazy" src="icons/aio-webtoon-downloader.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aio-webtoon-downloader***](apps/aio-webtoon-downloader.md) | *The most versatile, feature-rich & customizable command-line & GUI tool to download webtoons (manhwa), manga, comics and light novels from comix.to, mangataro.org, mangafire.to, asuracomic.net, weebcentral.com, manganato.gg & many others.*..[ *read more* ](apps/aio-webtoon-downloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aio-webtoon-downloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aio-webtoon-downloader) |
 | <img loading="lazy" src="icons/akuse.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***akuse***](apps/akuse.md) | *Simple and easy to use anime streaming desktop app without ads.*..[ *read more* ](apps/akuse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/akuse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/akuse) |
 | <img loading="lazy" src="icons/ani-cli.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ani-cli***](apps/ani-cli.md) | *A cli tool to browse and play anime.*..[ *read more* ](apps/ani-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ani-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ani-cli) |

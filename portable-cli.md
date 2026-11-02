@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **327** command line utilities: static and dynamic ELF binaries, or simple scripts.
+#### Here are listed **326** command line utilities: static and dynamic ELF binaries, or simple scripts.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -370,7 +370,6 @@
 | <img loading="lazy" src="icons/swish.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***swish***](apps/swish.md) | *Command Line Interface for Swisstransfer Infomaniak's free service.*..[ *read more* ](apps/swish.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swish) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swish) |
 | <img loading="lazy" src="icons/sysz.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***sysz***](apps/sysz.md) | *An fzf terminal UI for systemctl.*..[ *read more* ](apps/sysz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sysz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sysz) |
 | <img loading="lazy" src="icons/taskell.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***taskell***](apps/taskell.md) | *Command-line Kanban board/task manager with support for Trello boards and GitHub projects.*..[ *read more* ](apps/taskell.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/taskell) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/taskell) |
-| <img loading="lazy" src="icons/tb.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tb***](apps/tb.md) | *Tasks, boards & notes for the command-line habitat.*..[ *read more* ](apps/tb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tb) |
 | <img loading="lazy" src="icons/tdlib-rs.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tdlib-rs***](apps/tdlib-rs.md) | *Rust wrapper around the Telegram Database Library.*..[ *read more* ](apps/tdlib-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tdlib-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tdlib-rs) |
 | <img loading="lazy" src="icons/tere.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tere***](apps/tere.md) | *Terminal file explorer.*..[ *read more* ](apps/tere.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tere) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tere) |
 | <img loading="lazy" src="icons/termshot.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***termshot***](apps/termshot.md) | *Creates screenshots based on terminal command output.*..[ *read more* ](apps/termshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/termshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/termshot) |
