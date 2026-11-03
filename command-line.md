@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **978** programs and **10** items for this category.
+#### Here are listed **977** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -928,7 +928,6 @@
 | <img loading="lazy" src="icons/yadqt.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yadqt***](apps/yadqt.md) | *This is an app to produce simple Qt dialogs from the command line, similar to YAD for gtk.*..[ *read more* ](apps/yadqt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yadqt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yadqt) |
 | <img loading="lazy" src="icons/yaf.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yaf***](apps/yaf.md) | *Yet another system CLI fetch that is minimal and customizable.*..[ *read more* ](apps/yaf.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yaf) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yaf) |
 | <img loading="lazy" src="icons/yazi.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***yazi***](apps/yazi.md) | *Blazing fast terminal file manager written in Rust.*..[ *read more* ](apps/yazi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yazi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yazi) |
-| <img loading="lazy" src="icons/yolo-lab.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yolo-lab***](apps/yolo-lab.md) | *YOLO model training and inference toolkit — GUI and CLI workflows.*..[ *read more* ](apps/yolo-lab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yolo-lab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yolo-lab) |
 | <img loading="lazy" src="icons/youtube-download.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***youtube-download***](apps/youtube-download.md) | *GUI and CLI for downloading YouTube video/audio.*..[ *read more* ](apps/youtube-download.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-download) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-download) |
 | <img loading="lazy" src="icons/youtube-tui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***youtube-tui***](apps/youtube-tui.md) | *An aesthetically pleasing YouTube TUI CLI written in Rust.*..[ *read more* ](apps/youtube-tui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-tui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-tui) |
 | <img loading="lazy" src="icons/yt-dlp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yt-dlp***](apps/yt-dlp.md) | *A feature-rich command-line audio/video downloader.*..[ *read more* ](apps/yt-dlp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-dlp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-dlp) |

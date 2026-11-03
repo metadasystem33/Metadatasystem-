@@ -34020,6 +34020,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openidea",
+    "description": "editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openidea.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "openjarvis",
     "description": "Personal AI, On Personal Devices...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openjarvis.png",
@@ -50046,6 +50052,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tunelle",
+    "description": "Open-source lossless audio player...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tunelle.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "tunepack",
     "description": "Finding and download HQ audio files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tunepack.png",
@@ -55047,12 +55059,6 @@
     "packageName": "yoke-calendar",
     "description": "Yoke Calendar Release & Website...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yoke-calendar.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "yolo-lab",
-    "description": "YOLO model training and inference toolkit — GUI and CLI workflows...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yolo-lab.png",
     "arch": ["x86_64"]
   },
   {
