@@ -53112,6 +53112,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "weft",
+    "description": "Weft is a voxel sandbox engine written in Rust, Weft is not a Minecraft clone and does not read Minecraft worlds...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/weft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "weft-studio",
     "description": "Design interfaces with your AI agent on a live canvas. Desktop app for Linux and Windows that works with Claude Code, Codex, OpenCode and Antigravity...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/weft-studio.png",
