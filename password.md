@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **50** programs for this category.
+#### Here are listed **51** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -150,6 +150,7 @@
 | <img loading="lazy" src="icons/termos.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***termos***](apps/termos.md) | *store hosts, keys, and passwords in one encrypted vault, open SSH/Telnet/Serial terminals, transfer files via SFTP, configure port forwarding, and manage Proxmox VMs/containers from a single application. Sync across devices and share with your team via your own server.*..[ *read more* ](apps/termos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/termos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/termos) |
 | <img loading="lazy" src="icons/veyndesk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***veyndesk***](apps/veyndesk.md) | *connect with an ID and password, direct P2P with automatic relay. Built in Rust.*..[ *read more* ](apps/veyndesk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/veyndesk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/veyndesk) |
 | <img loading="lazy" src="icons/vigil.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***vigil***](apps/vigil.md) | *Password manager/Vault based on keepass with modern UI, biometric features, yubikey support and pwnd checks.*..[ *read more* ](apps/vigil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vigil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vigil) |
+| <img loading="lazy" src="icons/xtermium.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xtermium***](apps/xtermium.md) | *SSH, SFTP, RDP, VNC, telnet, serial, WinRM, BMC consoles and tunnels in tabs and split panes. Encrypted on disk, with an MCP server and CLI so AI agents run commands without seeing passwords. Rust, Apache-2.0.*..[ *read more* ](apps/xtermium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xtermium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xtermium) |
 
 
 ---
