@@ -10680,12 +10680,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "daymon",
-    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/daymon.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "dayon",
     "description": "Dayon! - A cross-platform remote desktop assistance solution for your family and friends...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dayon.png",
@@ -10845,12 +10839,6 @@
     "packageName": "dcf77-soundwave",
     "description": "Emulator of DCF77 time signal through audiochannel...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dcf77-soundwave.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "ddalab",
-    "description": "DDALAB is a software platform for analyzing physiological time-series data using Delay Differential Analysis (DDA)...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ddalab.png",
     "arch": ["x86_64"]
   },
   {
@@ -12598,12 +12586,6 @@
     "description": "A community-maintained branded desktop client for DeepSeek Harness, Windows / macOS / Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dsh-app.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "dsh-chamber",
-    "description": "The dsh (DeepSeek Harness) desktop connection manager consolidates dsh instances from your local machine and multiple servers into a single native window—offering instant local access and one-click remote connectivity...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dsh-chamber.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "dsh-codex-desktop",
@@ -16332,12 +16314,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "forktty",
-    "description": "Linux-native workspace for coding agents with embedded Ghostty terminals, git worktrees, local socket automation, lifecycle hooks, and prompt-aware notifications...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/forktty.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "formal-ai",
     "description": "Symbolic first, formal, logical, and data driven associative language processor. A template for AI driven development pipeline for Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/formal-ai.png",
@@ -16389,12 +16365,6 @@
     "packageName": "foxsdr",
     "description": "native RTL-SDR, HackRF, Airspy, SDRplay, RX888 and ADALM-Pluto drivers, spectrum and waterfall, 28 decoder plugins (ADS-B, AIS, APRS, ACARS, POCSAG, SSTV, weather satellites) and a browser remote. Free for noncommercial use...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/foxsdr.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "foxvpn",
-    "description": "Fox VPN - An independent client built on Mozilla's Firefox VPN infrastructure and Fastly edge servers, with private DNS, real-delay checks and app-based routing...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/foxvpn.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -17277,12 +17247,6 @@
     "packageName": "gdevelop",
     "description": "Cross-platform game engine designed to be used by everyone...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gdevelop.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "gdiskinfo",
-    "description": "A GTK4 disk health monitor for Linux, built as a QDiskInfo alternative using the GTKX React framework...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gdiskinfo.png",
     "arch": ["x86_64"]
   },
   {
@@ -40515,6 +40479,12 @@
     "packageName": "red",
     "description": "A fast, native database explorer, featuring an AI assistant that understands your schema, drafts queries for approval, and turns results into charts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/red.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "red-app",
+    "description": "open-source YouTube desktop app for Linux, native Qt 6, C++20, no Electron. TV mode, YouTube Music, ad blocking, SponsorBlock, mini player, media keys (MPRIS) and a video, audio and playlist download manager...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/red-app.png",
     "arch": ["x86_64"]
   },
   {
