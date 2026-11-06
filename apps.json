@@ -21738,12 +21738,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "javm",
-    "description": "scraping, downloading, and playing. ....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/javm.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "jazz2",
     "description": "Open-source reimplementation of Jazz Jackrabbit 2...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/jazz2.png",
