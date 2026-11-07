@@ -25116,6 +25116,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "licasa",
+    "description": "Open-source image viewer and editor for Linux. View HEIC, AVIF, JPEG XL, RAW previews, and Motion Photos in fullscreen or floating windows...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/licasa.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "lichtblick",
     "description": "Lichtblick is an integrated visualization and diagnosis tool for robotics, available in your browser or as a desktop app on Linux, Windows, and macOS...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lichtblick.png",
@@ -26541,6 +26547,12 @@
     "packageName": "luxclient",
     "description": "Lux-Client. A modern Minecraft launcher built with Electron, React, and Tailwind CSS...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/luxclient.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "luxe",
+    "description": "Simple, opinionated RAW photo editor...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/luxe.png",
     "arch": ["x86_64"]
   },
   {
