@@ -40392,12 +40392,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "rauhwpx",
-    "description": "A Korean document editor that fixes errors directly using AI...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rauhwpx.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "raum",
     "description": "Lightning-fast, recoverable terminals for AI agent harnesses. Tauri + Rust + Solid.js...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/raum.png",
