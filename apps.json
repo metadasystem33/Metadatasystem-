@@ -1728,6 +1728,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "andbible",
+    "description": "AndBible Bible Study. A powerful, yet easy to use, offline Bible study application...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/andbible.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "android-debloater",
     "description": "A user-friendly GUI tool for managing and removing unwanted apps from your Android device using ADB. Easily list, search, and uninstall packages with a clean interface and dark mode support...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/android-debloater.png",
@@ -29302,6 +29308,12 @@
     "description": "A simple companion for MiSTer-FPGA...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mister-companion.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "misterdownloadmanager",
+    "description": "The ultimate open-source, clean-room download manager written from scratch in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/misterdownloadmanager.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "mistermorph",
