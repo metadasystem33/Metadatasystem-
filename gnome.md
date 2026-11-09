@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **38** programs for this category.
+#### Here are listed **39** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -138,6 +138,7 @@
 | <img loading="lazy" src="icons/switchcraft.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***switchcraft***](apps/switchcraft.md) | *Switchcraft watches GNOME's light/dark preference and runs your shell commands when the theme changes.*..[ *read more* ](apps/switchcraft.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/switchcraft) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/switchcraft) |
 | <img loading="lazy" src="icons/tusk-gnome.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tusk-gnome***](apps/tusk-gnome.md) | *Native PostgreSQL app for GNOME.*..[ *read more* ](apps/tusk-gnome.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tusk-gnome) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tusk-gnome) |
 | <img loading="lazy" src="icons/veronica.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***veronica***](apps/veronica.md) | *Native Ubuntu control center for agent usage, system utilities, media, clipboard, emoji and GNOME integration.*..[ *read more* ](apps/veronica.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/veronica) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/veronica) |
+| <img loading="lazy" src="icons/wayswitch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wayswitch***](apps/wayswitch.md) | *Автоисправление раскладки ru/en для Linux на Wayland. Keyboard layout auto-corrector for GNOME, KDE Plasma, Sway and Hyprland.*..[ *read more* ](apps/wayswitch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wayswitch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wayswitch) |
 
 
 ---

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **37** programs and **59** items for this category.
+#### Here are listed **38** programs and **59** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -195,6 +195,7 @@
 | <img loading="lazy" src="icons/sweeper.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***sweeper***](apps/kdeutils.md) | *System Cleaner. This is part of "kdeutils".*..[ *read more* ](apps/kdeutils.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils) |
 | <img loading="lazy" src="icons/telly-skout.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***telly-skout***](apps/kdeutils.md) | *A convergent Kirigami TV guide. This is part of "kdeutils".*..[ *read more* ](apps/kdeutils.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils) |
 | <img loading="lazy" src="icons/vermouth.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vermouth***](apps/vermouth.md) | *Launch Windows games on KDE.*..[ *read more* ](apps/vermouth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vermouth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vermouth) |
+| <img loading="lazy" src="icons/wayswitch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wayswitch***](apps/wayswitch.md) | *Автоисправление раскладки ru/en для Linux на Wayland. Keyboard layout auto-corrector for GNOME, KDE Plasma, Sway and Hyprland.*..[ *read more* ](apps/wayswitch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wayswitch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wayswitch) |
 | <img loading="lazy" src="icons/xapkdetector.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xapkdetector***](apps/xapkdetector.md) | *APK/DEX detector that shows an information about build tools, libraries and protection of APK/DEX files.*..[ *read more* ](apps/xapkdetector.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xapkdetector) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xapkdetector) |
 
 

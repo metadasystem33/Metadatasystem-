@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **30** programs for this category.
+#### Here are listed **31** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -130,6 +130,7 @@
 | <img loading="lazy" src="icons/winebar.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***winebar***](apps/winebar.md) | *A Wine prefix manager.*..[ *read more* ](apps/winebar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/winebar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/winebar) |
 | <img loading="lazy" src="icons/winegui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***winegui***](apps/winegui.md) | *At last, a user-friendly Wine graphical interface (mirror from Gitlab).*..[ *read more* ](apps/winegui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/winegui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/winegui) |
 | <img loading="lazy" src="icons/xi-on-anything.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xi-on-anything***](apps/xi-on-anything.md) | *Static recompilation of FINAL FANTASY XI's FFXiMain.dll (and FFXi.dll) from 32-bit x86 to C, so the game runs natively on arm64 macOS without Wine or Rosetta.*..[ *read more* ](apps/xi-on-anything.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xi-on-anything) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xi-on-anything) |
+| <img loading="lazy" src="icons/zalux.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zalux***](apps/zalux.md) | *Zalux — Zalo trên Linux, mượt mà, không Wine. Native Rust Call Engine 1:1, Nhóm & PipeWire.*..[ *read more* ](apps/zalux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zalux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zalux) |
 
 
 ---
