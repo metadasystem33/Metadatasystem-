@@ -53568,12 +53568,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "wayvoice",
-    "description": "Offline voice typing for Linux/Wayland. Press a hotkey, speak, and text appears in the active application. Local Whisper • GTK/libadwaita • No cloud required...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wayvoice.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "wayvr",
     "description": "Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wayvr.png",
@@ -55167,12 +55161,6 @@
     "packageName": "xmoto",
     "description": "A challenging 2D motocross platform game, where physics play an important role...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xmoto.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "xmsgi-studio",
-    "description": "XMSGi Studio combines meeting scheduling and Telegram publishing in one convenient and secure workspace...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xmsgi-studio.png",
     "arch": ["x86_64"]
   },
   {
