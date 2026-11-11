@@ -3588,12 +3588,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "autocheckin-engineering",
-    "description": "An engineering project used to simplify the automatic check-in process, help reduce repeated manual operations, improve daily execution efficiency, and focus on stability, ease of use, and maintainability. ....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/autocheckin-engineering.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "autodock",
     "description": "assistente guiado que cria Dockerfile, docker-compose.yml e até o projeto. Open source (Apache-2.0)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/autodock.png",
@@ -3774,12 +3768,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "axe-os-multitool",
-    "description": "A future forward Application for Monitoring And Overclocking and more. Call it Swiss army knife for multiple Bitaxe ASIC Miners...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/axe-os-multitool.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "axibridge",
     "description": "AxiBridge automatically uploads arcdps logs, summarizes WvW fights, and sends clean, readable reports to Discord or the web so your squad can review quickly...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/axibridge.png",
@@ -3885,12 +3873,6 @@
     "packageName": "azterm",
     "description": "Fast, GPU-accelerated terminal emulator, SSH bookmark manager, and dual-pane SFTP client written in pure Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/azterm.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "azura",
-    "description": "Azura launcher releases for macOS, Linux and Windows...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/azura.png",
     "arch": ["x86_64"]
   },
   {
@@ -4113,12 +4095,6 @@
     "packageName": "baras",
     "description": "The Old Republic written in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/baras.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "barcode-emulator-electron",
-    "description": "Barcode Scanner Simulator/Emulator...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/barcode-emulator-electron.png",
     "arch": ["x86_64"]
   },
   {
@@ -4503,12 +4479,6 @@
     "packageName": "beeref",
     "description": "BeeRef Reference Image Viewer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/beeref.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "bees",
-    "description": "Run a team of AI agents on your own computer. Your files, browser sessions and passwords stay local. Works with Claude Code, Codex, hosted or local models, and MCP tools...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bees.png",
     "arch": ["x86_64"]
   },
   {
@@ -8878,12 +8848,6 @@
     "description": "CodexProxy is called by similar claude code....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/codexproxy.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "codexswitch",
-    "description": "CodexSwitch is a cross-platform Avalonia desktop app that turns Codex into a local, switchable AI provider workstation. It runs an OpenAI Responses-compatible proxy on your machine, writes a managed Codex configuration, routes requests across multiple upstream providers, converts protocol dialects when needed, and keeps local usage and cost records...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/codexswitch.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "coding-usage",
@@ -24225,13 +24189,13 @@
     "packageName": "koreader",
     "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/koreader.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "koreader-nightly",
     "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux. Nightly build...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/koreader-nightly.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "kosmos",
@@ -42099,6 +42063,12 @@
     "packageName": "ripgrep-all",
     "description": "A ripgrep version to also search in documents and archives...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ripgrep-all.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "riplay",
+    "description": "Multiplatform Music Player with support for both online and offline content, extensive customization options, and a beautiful interface...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/riplay.png",
     "arch": ["x86_64"]
   },
   {

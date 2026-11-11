@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **50** programs for this category.
+#### Here are listed **49** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -102,7 +102,6 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/advanced-passgen.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***advanced-passgen***](apps/advanced-passgen.md) | *Advanced Password Generator.*..[ *read more* ](apps/advanced-passgen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-passgen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-passgen) |
 | <img loading="lazy" src="icons/airlock-relay.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***airlock-relay***](apps/airlock-relay.md) | *Give agents capabilities. Keep credentials local. A local relay that gives AI agents, scripts, and automation controlled access to HTTP, SSH, and LLM APIs — without exposing real URLs, passwords, or API keys.*..[ *read more* ](apps/airlock-relay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/airlock-relay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/airlock-relay) |
-| <img loading="lazy" src="icons/bees.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bees***](apps/bees.md) | *Run a team of AI agents on your own computer. Your files, browser sessions and passwords stay local. Works with Claude Code, Codex, hosted or local models, and MCP tools.*..[ *read more* ](apps/bees.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bees) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bees) |
 | <img loading="lazy" src="icons/bitwarden.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bitwarden***](apps/bitwarden.md) | *Password manager for individuals, teams and business.*..[ *read more* ](apps/bitwarden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bitwarden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bitwarden) |
 | <img loading="lazy" src="icons/bramble.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***bramble***](apps/bramble.md) | *Local-first password manager with direct device-to-device sync.*..[ *read more* ](apps/bramble.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bramble) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bramble) |
 | <img loading="lazy" src="icons/buttercup.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***buttercup***](apps/buttercup.md) | *Free and Open Source password vault.*..[ *read more* ](apps/buttercup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/buttercup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/buttercup) |
