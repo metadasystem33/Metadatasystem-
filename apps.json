@@ -20514,6 +20514,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "hatearena",
+    "description": "HateArena - Multiplayer Arena FPS based off of the original CUBE engine...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hatearena.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "hatoba",
     "description": "Open-source desktop SSH client with an AI assistant and end-to-end encrypted sync through your own Cloudflare account...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hatoba.png",
@@ -57699,6 +57705,12 @@
     "packageName": "yaya",
     "description": "Yet Another Yahtzee-esque Application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yaya.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "yayc",
+    "description": "Free desktop YouTube client for Linux, Windows and macOS (Qt6/QML/QtWebEngine) — bookmarks, watch progress, video queue management...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yayc.png",
     "arch": ["x86_64"]
   },
   {
