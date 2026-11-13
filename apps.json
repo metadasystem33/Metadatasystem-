@@ -19386,12 +19386,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "godmode-bot",
-    "description": "An AI teammate you can trust to get work done — Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app + web dashboard. MIT...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/godmode-bot.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "godot",
     "description": "Multi-platform 2D and 3D game engine with a feature-rich editor...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/godot.png",
@@ -22551,12 +22545,6 @@
     "packageName": "iptracker",
     "description": "Desktop tool to keep track of your IP address and update you when it changes...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/iptracker.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "iptv",
-    "description": "A premium web-based IPTV player built with Next.js 16 & Tailwind CSS v4. Features 7500+ live TV channels, HLS & DASH (ClearKey DRM) streaming, and a high-performance 3D CSS grid UI...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/iptv.png",
     "arch": ["x86_64"]
   },
   {
@@ -30516,12 +30504,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mmvj",
-    "description": "HID and MIDI transforming I/O mapper and virtual HID manager, for Linux...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mmvj.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "mnemai",
     "description": "A free AI interface with memory, local agents and multitasking. One memory for Claude, ChatGPT, Gemini and local models — on your computer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mnemai.png",
@@ -30831,12 +30813,6 @@
     "packageName": "monit",
     "description": "Desktop widgets displaying various information, in chinese...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/monit.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "moniteur-admin",
-    "description": "The admin panel for the lightweight info screen solution...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/moniteur-admin.png",
     "arch": ["x86_64"]
   },
   {
@@ -31812,12 +31788,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "mvplunar",
-    "description": "A high-performance audio control suite built with care, love, and perfection for the Linux community...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mvplunar.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "mvsep-rs",
     "description": "A desktop application based on the MVSEP website, used to implement AI audio separation....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mvsep-rs.png",
@@ -32133,12 +32103,6 @@
     "packageName": "nap",
     "description": "Code spippets in your terminal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nap.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "napcatqq-desktop",
-    "description": "Desktop program for NapCatQQ&Snowluma....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/napcatqq-desktop.png",
     "arch": ["x86_64"]
   },
   {
@@ -32874,12 +32838,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "nexus-account-manager",
-    "description": "A unified multi platform AI account management tool built on Tauri, React, and Rust...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nexus-account-manager.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "nexus-explorer",
     "description": "A blazingly fast file explorer for desktop...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nexus-explorer.png",
@@ -33417,12 +33375,6 @@
     "packageName": "normcap",
     "description": "OCR powered screen-capture tool to capture info instead of images...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/normcap.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "nose-erp",
-    "description": "CRM, sales, inventory, projects, finance, and on-device AI. Next.js 16 + Supabase (RLS). Open-core...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nose-erp.png",
     "arch": ["x86_64"]
   },
   {
