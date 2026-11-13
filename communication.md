@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **260** programs for this category.
+#### Here are listed **261** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -321,6 +321,7 @@
 | <img loading="lazy" src="icons/vegord.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***vegord***](apps/vegord.md) | *Vegord (Vegcord) - Custom Discord desktop app with a built-in GFW-resistant Rust SOCKS5 proxy (DoH + TLS fragmentation + smart IP routing).*..[ *read more* ](apps/vegord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vegord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vegord) |
 | <img loading="lazy" src="icons/vellumstyle.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vellumstyle***](apps/vellumstyle.md) | *1054591417..*..[ *read more* ](apps/vellumstyle.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vellumstyle) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vellumstyle) |
 | <img loading="lazy" src="icons/velo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***velo***](apps/velo.md) | *Open source desktop email client.*..[ *read more* ](apps/velo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/velo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/velo) |
+| <img loading="lazy" src="icons/velta.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***velta***](apps/velta.md) | *Velta is a Delta Chat client built with web components. V for Velta..*..[ *read more* ](apps/velta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/velta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/velta) |
 | <img loading="lazy" src="icons/vesktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vesktop***](apps/vesktop.md) | *Vesktop gives you the performance of web Discord.*..[ *read more* ](apps/vesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vesktop) |
 | <img loading="lazy" src="icons/viber.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***viber***](apps/viber.md) | *Proprietary cross-platform IM and VoIP software.*..[ *read more* ](apps/viber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/viber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/viber) |
 | <img loading="lazy" src="icons/vidcord.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***vidcord***](apps/vidcord.md) | *Compress videos to fit Discord's file size limits. Cross-platform desktop app powered by FFmpeg — Windows, macOS, Linux.*..[ *read more* ](apps/vidcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vidcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vidcord) |
