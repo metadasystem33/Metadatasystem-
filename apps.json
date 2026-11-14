@@ -31908,6 +31908,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "mymusik",
+    "description": "MyMusik is a music player and library manager for personal MP3, FLAC and WAV collections. Local listening is free and works offline without an account...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mymusik.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mynetwork",
     "description": "Cross-platform network & port scanner with a desktop GUI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mynetwork.png",
@@ -36592,12 +36598,6 @@
     "description": "Orcha Writer is an AI writing, local-first, cross-platform Markdown writing and document management tool, oriented to product documentation, technical documentation, local knowledge organization and document delivery scenarios. ....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/orcha-writer.png",
     "arch": ["x86_64"]
-  },
-  {
-    "packageName": "orchid",
-    "description": "VERY experimental Nintendo Switch 2 emulator....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/orchid.png",
-    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "orden",
