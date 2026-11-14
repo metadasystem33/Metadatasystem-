@@ -28272,6 +28272,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "mailcraft-ucs",
+    "description": "MailCraft, an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mailcraft-ucs.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "mailmanager",
     "description": "Outlook batch management tool....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mailmanager.png",
