@@ -36216,12 +36216,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "opentm",
-    "description": "An independent target manager for the PlayStation 3, speaking the DECI3 protocol over TCP...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opentm.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "opentodolist",
     "description": "A note and task managing application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opentodolist.png",
