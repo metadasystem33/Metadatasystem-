@@ -12613,9 +12613,15 @@
   },
   {
     "packageName": "dissidia012-pc",
-    "description": "A native PC port of Dissidia 012 Duodecim Final Fantasy (PSP, USA release ULUS10566 or European release ULES01505,..",
+    "description": "A native PC port of Dissidia 012 Duodecim Final Fantasy (PSP, USA release ULUS10566 or European release ULES01505...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dissidia012-pc.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "distrobox",
+    "description": "Unofficial. Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/distrobox.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "ditherista",
@@ -54765,12 +54771,6 @@
     "packageName": "verba",
     "description": "Learn a language by talking to an AI that never gets bored, never judges, and — if you want — never touches the internet...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/verba.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "verboo-app",
-    "description": "Verboo Code Desktop is a desktop client for working with the Verboo Code CLI from a focused app interface. It wraps the CLI-oriented workflow with project navigation, chat history, model selection, skill selection, permission controls, profile views, feedback reporting, and a desktop shell that runs on macOS, Windows, and Linux...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/verboo-app.png",
     "arch": ["x86_64"]
   },
   {
