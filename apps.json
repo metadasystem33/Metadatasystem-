@@ -53616,12 +53616,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "typeward",
-    "description": "A LaTeX editor that runs on your machine. No account, no server, no paid tier...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/typeward.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "typewriter-nocturne",
     "description": "paper and ink, brass..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/typewriter-nocturne.png",
