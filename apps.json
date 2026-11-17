@@ -16080,6 +16080,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "featherwallet",
+    "description": "A Free Monero Desktop Wallet..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/featherwallet.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "fedistar",
     "description": "Multi-column Fediverse client for desktop...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fedistar.png",
@@ -32440,6 +32446,12 @@
     "description": "Open-source cross-platform software KVM for sharing keyboard, mouse, and clipboard across Windows, macOS, and Linux on trusted LANs...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mykvm.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "mymcpp",
+    "description": "Open-source PlayStation 2 memory card manager and save editor....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mymcpp.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "mymusik",
