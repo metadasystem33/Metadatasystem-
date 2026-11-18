@@ -28260,12 +28260,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "lumenply",
-    "description": "non-destructive layers, PSD import/export, on-device AI Select Subject and background removal. Written in Rust....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lumenply.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "lumi",
     "description": "A tool to create and display interactive content with H5P...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lumi.png",
@@ -30258,12 +30252,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "metamask",
-    "description": "MetaMask Desktop — Safe cross-platform Web3 crypto wallet app for Windows, macOS and Linux...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/metamask.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "meterm",
     "description": "Multi-client shared terminal session system — Real-time terminal collaboration..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meterm.png",
@@ -30300,21 +30288,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "metroidprime2port",
-    "description": "bring your own disc image...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/metroidprime2port.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "metroidprimehuntersrecomp",
     "description": "MetroidPrimeHuntersRecomp runs the USA revision-0 release of Metroid Prime Hunters game as a native recompilation target. You provide your own legally obtained ROM. No Nintendo ROM, BIOS, firmware, save data, or generated ROM-derived source is distributed...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/metroidprimehuntersrecomp.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "metroidprimeport",
-    "description": "bring your own disc image...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/metroidprimeport.png",
     "arch": ["x86_64"]
   },
   {
@@ -31872,12 +31848,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "msbt-installer",
-    "description": "Borderlands 4 Modding Tools — Powered by Funk. Desktop, Android and SDK tools for boosting, items, saves and modding. Original project by Mattmab....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/msbt-installer.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "msg-reader",
     "description": "Simple tool that allows you to view .msg files from \"Old MS Outlook\". \"New MS Outlook\" requires an \"Office 365\" subscription to open .msg-Files, but hasn't implemented any way to confirm an active subscription, yet (it seems)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/msg-reader.png",
@@ -32019,12 +31989,6 @@
     "packageName": "multicore",
     "description": "Universal VPN client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/multicore.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "multimc",
-    "description": "A Minecraft launcher...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/multimc.png",
     "arch": ["x86_64"]
   },
   {

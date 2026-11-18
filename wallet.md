@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **84** programs for this category.
+#### Here are listed **83** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -146,7 +146,6 @@
 | <img loading="lazy" src="icons/localwallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***localwallet***](apps/localwallet.md) | *Local wallet vault.*..[ *read more* ](apps/localwallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/localwallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/localwallet) |
 | <img loading="lazy" src="icons/mdl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mdl***](apps/mdl.md) | *MDL wallet.*..[ *read more* ](apps/mdl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mdl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mdl) |
 | <img loading="lazy" src="icons/memocash.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***memocash***](apps/memocash.md) | *Your wallet. Your social network.*..[ *read more* ](apps/memocash.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/memocash) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/memocash) |
-| <img loading="lazy" src="icons/metamask.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***metamask***](apps/metamask.md) | *MetaMask Desktop — Safe cross-platform Web3 crypto wallet app for Windows, macOS and Linux.*..[ *read more* ](apps/metamask.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/metamask) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/metamask) |
 | <img loading="lazy" src="icons/monero-multisig-gui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***monero-multisig-gui***](apps/monero-multisig-gui.md) | *Create Monero multisig wallets safely and with privacy.*..[ *read more* ](apps/monero-multisig-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/monero-multisig-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/monero-multisig-gui) |
 | <img loading="lazy" src="icons/mytonwallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mytonwallet***](apps/mytonwallet.md) | *Feature-rich web wallet and browser extension for TON Network.*..[ *read more* ](apps/mytonwallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mytonwallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mytonwallet) |
 | <img loading="lazy" src="icons/namehold-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***namehold-wallet***](apps/namehold-wallet.md) | *A non-custodial Handshake (HNS) wallet and TLD manager.*..[ *read more* ](apps/namehold-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/namehold-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/namehold-wallet) |

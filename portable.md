@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **414** portable programs NOT in AppImage format.
+#### Here are listed **413** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -332,7 +332,6 @@
 | <img loading="lazy" src="icons/minecraft-launcher.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***minecraft-launcher***](apps/minecraft-launcher.md) | *Game downloader and launcher for Minecraft.*..[ *read more* ](apps/minecraft-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/minecraft-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/minecraft-launcher) |
 | <img loading="lazy" src="icons/mk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mk***](apps/mk.md) | *Interactive Task Runner for Makefile.*..[ *read more* ](apps/mk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mk) |
 | <img loading="lazy" src="icons/mp4grep.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mp4grep***](apps/mp4grep.md) | *CLI for transcribing and searching audio/video files.*..[ *read more* ](apps/mp4grep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep) |
-| <img loading="lazy" src="icons/multimc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***multimc***](apps/multimc.md) | *A Minecraft launcher.*..[ *read more* ](apps/multimc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/multimc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/multimc) |
 | <img loading="lazy" src="icons/nak.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***nak***](apps/nak.md) | *A CLI tool for doing all things nostr.*..[ *read more* ](apps/nak.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nak) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nak) |
 | <img loading="lazy" src="icons/nami.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nami***](apps/nami.md) | *A clean and tidy decentralized package manager.*..[ *read more* ](apps/nami.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nami) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nami) |
 | <img loading="lazy" src="icons/nap.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nap***](apps/nap.md) | *Code spippets in your terminal.*..[ *read more* ](apps/nap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nap) |
