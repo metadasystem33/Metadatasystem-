@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **40** programs for this category.
+#### Here are listed **41** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -122,6 +122,7 @@
 | <img loading="lazy" src="icons/halorim.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***halorim***](apps/halorim.md) | *your logo glows along its edge and the light follows your cursor. 28 logos or your own SVG. Free & open source, for Linux (GNOME, KDE, X11) and Windows 10/11..*..[ *read more* ](apps/halorim.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/halorim) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/halorim) |
 | <img loading="lazy" src="icons/hylki.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***hylki***](apps/hylki.md) | *a fast, GNOME-native email client built with Rust and libadwaita.*..[ *read more* ](apps/hylki.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/hylki) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/hylki) |
 | <img loading="lazy" src="icons/jellytune.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***jellytune***](apps/jellytune.md) | *JellyTune, Gnome audio client for Jellyfin.*..[ *read more* ](apps/jellytune.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/jellytune) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/jellytune) |
+| <img loading="lazy" src="icons/lindvb.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lindvb***](apps/lindvb.md) | *Digital TV and Radio App for Gnome Desktops..*..[ *read more* ](apps/lindvb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lindvb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lindvb) |
 | <img loading="lazy" src="icons/loginized.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |
 | <img loading="lazy" src="icons/masterkey.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***masterkey***](apps/masterkey.md) | *Unofficial. A password manager application for the GNOME desktop.*..[ *read more* ](apps/masterkey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/masterkey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/masterkey) |
 | <img loading="lazy" src="icons/mtsync.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mtsync***](apps/mtsync.md) | *A Gnome frontend to rclone to (auto)mount and sync your data.*..[ *read more* ](apps/mtsync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mtsync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mtsync) |
