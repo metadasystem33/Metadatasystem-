@@ -25212,12 +25212,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "kition",
-    "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kition.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "kitowall",
     "description": "KitoWall is a modern wallpaper & scene manager for Hyprland / Wayland, combining a powerful CLI with a desktop UI to manage wallpapers, packs, history, automation, and multi-monitor setups — built for daily use...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kitowall.png",
@@ -28149,12 +28143,6 @@
     "packageName": "lokus",
     "description": "Lokus - A modern, intuitive note-taking application with powerful editing capabilities...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lokus.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "lolzteam-launcher",
-    "description": "A desktop launcher for lzt.market buyers—log in to purchased accounts with a single click...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lolzteam-launcher.png",
     "arch": ["x86_64"]
   },
   {
