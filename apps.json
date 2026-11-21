@@ -3312,6 +3312,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "asone",
+    "description": "crop, margins, white background, local AI background removal, URL-friendly file names and metadata-free progressive JPEG...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/asone.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "aspect",
     "description": "Photo organization application with support for peer-to-peer based synchronization across devices...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aspect.png",
@@ -35479,7 +35485,7 @@
   },
   {
     "packageName": "omniget",
-    "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte...",
+    "description": "chats, feeds, browser, files and downloads. Also a downloader for video, music and the courses you bought. Everything stays on your machine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omniget.png",
     "arch": ["x86_64","aarch64"]
   },
@@ -40431,6 +40437,12 @@
     "packageName": "plano",
     "description": "Orchestrate AI coding agents that talk to each other - Claude Code, Codex, Gemini, Pi. One agent spawns more, delegates work and waits for their reports. 100% local, no cloud...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/plano.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "plasma-addon-manager",
+    "description": "A universal KDE Plasma 6 add-on manager for Linux, built with Qt6/Kirigami and Rust. Install, manage, and automatically update KDE Store extensions with a native GUI, diagnostics, scheduling, and AppImage support...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/plasma-addon-manager.png",
     "arch": ["x86_64"]
   },
   {
