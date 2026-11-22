@@ -40441,7 +40441,7 @@
   },
   {
     "packageName": "pixeldrain-cli",
-    "description": "A simple command-line client for uploading files and directories to Pixeldrain...",
+    "description": "The Ultimate CLI client for Pixeldrain...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pixeldrain-cli.png",
     "arch": ["x86_64","aarch64"]
   },
@@ -54199,9 +54199,9 @@
   },
   {
     "packageName": "transformer",
-    "description": "A command-line utility for splitting large files into chunks/pieces and merging them back together...",
+    "description": "A CLI tool to split large files into pieces, merge them back to the original file, and securely encrypt or decrypt files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/transformer.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64","i686"]
   },
   {
     "packageName": "transgentic",
