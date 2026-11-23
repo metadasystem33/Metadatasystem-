@@ -42408,12 +42408,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "pulse-analytics",
-    "description": "Claude Code, OpenAI Codex, OpenCode, Command Code and Orion App. Track tokens, costs, cache, context and limits...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pulse-analytics.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "pulsedns",
     "description": "A high-performance DNS server with ad-blocking, smart caching, and web-based management interface...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pulsedns.png",
