@@ -48708,6 +48708,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "slobdict",
+    "description": "A modern, lightweight GTK 4 dictionary app...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/slobdict.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "slogidex",
     "description": "Task management and automation tool...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/slogidex.png",
@@ -49665,12 +49671,6 @@
     "packageName": "spelunkyclassichd",
     "description": "A modified version of Derek Yu's game Spelunky Classic...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spelunkyclassichd.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "spencer-macro-utilities",
-    "description": "An open source C++ Roblox Macro with many features...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/spencer-macro-utilities.png",
     "arch": ["x86_64"]
   },
   {
