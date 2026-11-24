@@ -4332,6 +4332,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "banana-linux-flasher",
+    "description": "Simple Flasher for Banana DS and Banana Pocket...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/banana-linux-flasher.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "bananas",
     "description": "Bananas, Cross-Platform screen sharing made simple...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bananas.png",
@@ -58602,12 +58608,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "wisp",
-    "description": "Run Claude Code, Codex and other coding agents in parallel, in the background, and read a one-screen report instead of the transcript...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wisp.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "wisp-science",
     "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wisp-science.png",
@@ -59211,12 +59211,6 @@
     "packageName": "xbooxp",
     "description": "A nifty software to upload homebrew apps into your Game Boy Advance (GBA) using an xboo cable...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xbooxp.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "xbox360-game-scraper",
-    "description": "Browse, search, and download Xbox 360 games with cover art, multiple download mirrors, and a self-updating desktop app for Windows, Mac, and Linux...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xbox360-game-scraper.png",
     "arch": ["x86_64"]
   },
   {
