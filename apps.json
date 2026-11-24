@@ -55243,8 +55243,7 @@
   },
   {
     "packageName": "unecm",
-    "description": "Unofficial AppImage of unecm, a CLI tool to decompress .ecm files.
-Unofficial AppImage of unecm, a CLI tool to decompress .ecm files...",
+    "description": "Unofficial AppImage of unecm, a CLI tool to decompress .ecm files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unecm.png",
     "arch": ["x86_64"]
   },
