@@ -37584,6 +37584,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openscissors",
+    "description": "an AI proposes the cut-out, you refine it with a brush. Portable, lightweight, no telemetry. Rust + Slint + ONNX Runtime...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openscissors.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "openscp",
     "description": "A lightweight, cross-platform file transfer client with a dual-panel workflow, secure defaults, and support for SFTP, SCP, FTP, FTPS, and WebDAV...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openscp.png",
