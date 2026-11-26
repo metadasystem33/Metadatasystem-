@@ -708,12 +708,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "agent-loom",
-    "description": "Agent skills management and synchronization app...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agent-loom.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "agent-office",
     "description": "a macOS app with a terminal per project, one boss over every project, and several Claude accounts...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/agent-office.png",
@@ -4698,12 +4692,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "bdinfo-rs",
-    "description": "Memory-safe, zero-C-dependency Rust Blu-ray disc analyzer — a drop-in BDInfo report tool for BDMV folders and .iso images...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bdinfo-rs.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "bdl",
     "description": "Bilibili rust downloader, supports win mac linux and Android. 4k, up main space, batch, subtitles, etc....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bdl.png",
@@ -5409,12 +5397,6 @@
     "packageName": "bitbox-wallet",
     "description": "Cryptocurrency hardware wallet desktop app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bitbox-wallet.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "bitchord",
-    "description": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bitchord.png",
     "arch": ["x86_64"]
   },
   {
