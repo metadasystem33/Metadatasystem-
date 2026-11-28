@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **14** programs for this category.
+#### Here are listed **15** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -102,6 +102,7 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/aranym.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aranym***](apps/aranym.md) | *Virtual Machine for Atari 32-bit applications.*..[ *read more* ](apps/aranym.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aranym) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aranym) |
 | <img loading="lazy" src="icons/cdj3k-emu.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***cdj3k-emu***](apps/cdj3k-emu.md) | *An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network.*..[ *read more* ](apps/cdj3k-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cdj3k-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cdj3k-emu) |
+| <img loading="lazy" src="icons/classicmac.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***classicmac***](apps/classicmac.md) | *a native macOS app emulating a 68040 Quadra 800 and a PowerPC Power Mac G4 on a custom QEMU build..*..[ *read more* ](apps/classicmac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicmac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicmac) |
 | <img loading="lazy" src="icons/gnome-boxes.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***gnome-boxes***](apps/gnome-boxes.md) | *Unofficial. A simple GNOME application to access virtual machines.*..[ *read more* ](apps/gnome-boxes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-boxes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-boxes) |
 | <img loading="lazy" src="icons/guesthouse.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***guesthouse***](apps/guesthouse.md) | *GPU virtual machines on Linux..*..[ *read more* ](apps/guesthouse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/guesthouse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/guesthouse) |
 | <img loading="lazy" src="icons/openmausbot.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***openmausbot***](apps/openmausbot.md) | *Open-source Grok Bot alternative with a virtual machine that bots can use.*..[ *read more* ](apps/openmausbot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/openmausbot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/openmausbot) |
